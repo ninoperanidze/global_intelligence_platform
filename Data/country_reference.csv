@@ -1,0 +1,109 @@
+country,iso2,iso3,region,subregion,capital,latitude,longitude,population_hint
+Ethiopia,ET,ETH,Africa,Eastern Africa,Addis Ababa,8.0,38.0,87952991
+Kenya,KE,KEN,Africa,Eastern Africa,Nairobi,1.0,38.0,41800000
+Mozambique,MZ,MOZ,Africa,Eastern Africa,Maputo,-18.25,35.0,25041922
+Tanzania,TZ,TZA,Africa,Eastern Africa,Dodoma,-6.0,35.0,47421786
+Uganda,UG,UGA,Africa,Eastern Africa,Kampala,1.0,32.0,34856813
+Zambia,ZM,ZMB,Africa,Eastern Africa,Lusaka,-15.0,30.0,15023315
+Zimbabwe,ZW,ZWE,Africa,Eastern Africa,Harare,-20.0,30.0,13061239
+Angola,AO,AGO,Africa,Middle Africa,Luanda,-12.5,18.5,24383301
+Cameroon,CM,CMR,Africa,Middle Africa,Yaoundé,6.0,12.0,20386799
+Algeria,DZ,DZA,Africa,Northern Africa,Algiers,28.0,3.0,38700000
+Egypt,EG,EGY,Africa,Northern Africa,Cairo,27.0,30.0,87668100
+Morocco,MA,MAR,Africa,Northern Africa,Rabat,32.0,-5.0,33465000
+Tunisia,TN,TUN,Africa,Northern Africa,Tunis,34.0,9.0,10982754
+Botswana,BW,BWA,Africa,Southern Africa,Gaborone,-22.0,24.0,2024904
+Namibia,NA,NAM,Africa,Southern Africa,Windhoek,-22.0,17.0,2113077
+South Africa,ZA,ZAF,Africa,Southern Africa,Pretoria,-29.0,24.0,54002000
+Ghana,GH,GHA,Africa,Western Africa,Accra,8.0,-2.0,27043093
+Nigeria,NG,NGA,Africa,Western Africa,Abuja,10.0,8.0,178517000
+Senegal,SN,SEN,Africa,Western Africa,Dakar,14.0,-14.0,13508715
+Dominican Republic,DO,DOM,Americas,Caribbean,Santo Domingo,19.0,-70.66666666,10378267
+Jamaica,JM,JAM,Americas,Caribbean,Kingston,18.25,-77.5,2717991
+Costa Rica,CR,CRI,Americas,Central America,San José,10.0,-84.0,4713168
+El Salvador,SV,SLV,Americas,Central America,San Salvador,13.83333333,-88.91666666,6401240
+Guatemala,GT,GTM,Americas,Central America,Guatemala City,15.5,-90.25,15806675
+Honduras,HN,HND,Americas,Central America,Tegucigalpa,15.0,-86.5,8725111
+Mexico,MX,MEX,Americas,Central America,Mexico City,23.0,-102.0,119713203
+Nicaragua,NI,NIC,Americas,Central America,Managua,13.0,-85.0,6134270
+Panama,PA,PAN,Americas,Central America,Panama City,9.0,-80.0,3713312
+Canada,CA,CAN,Americas,Northern America,Ottawa,60.0,-95.0,35540419
+United States,US,USA,Americas,Northern America,Washington D.C.,38.0,-97.0,319259000
+Argentina,AR,ARG,Americas,South America,Buenos Aires,-34.0,-64.0,42669500
+Bolivia,BO,BOL,Americas,South America,Sucre,-17.0,-65.0,10027254
+Brazil,BR,BRA,Americas,South America,Brasília,-10.0,-55.0,203586000
+Chile,CL,CHL,Americas,South America,Santiago,-30.0,-71.0,17819054
+Colombia,CO,COL,Americas,South America,Bogotá,4.0,-72.0,47907800
+Ecuador,EC,ECU,Americas,South America,Quito,-2.0,-77.5,15888900
+Paraguay,PY,PRY,Americas,South America,Asunción,-23.0,-58.0,6893727
+Peru,PE,PER,Americas,South America,Lima,-10.0,-76.0,30814175
+Uruguay,UY,URY,Americas,South America,Montevideo,-33.0,-56.0,3404189
+Venezuela,VE,VEN,Americas,South America,Caracas,8.0,-66.0,30206307
+Kazakhstan,KZ,KAZ,Asia,Central Asia,Astana,48.0,68.0,17377800
+China,CN,CHN,Asia,Eastern Asia,Beijing,35.0,105.0,1367110000
+Japan,JP,JPN,Asia,Eastern Asia,Tokyo,36.0,138.0,127080000
+Mongolia,MN,MNG,Asia,Eastern Asia,Ulan Bator,46.0,105.0,2987733
+South Korea,KR,KOR,Asia,Eastern Asia,Seoul,37.0,127.5,50423955
+Taiwan,TW,TWN,Asia,Eastern Asia,Taipei,23.5,121.0,23424615
+Cambodia,KH,KHM,Asia,South-Eastern Asia,Phnom Penh,13.0,105.0,15184116
+Indonesia,ID,IDN,Asia,South-Eastern Asia,Jakarta,-5.0,120.0,252164800
+Malaysia,MY,MYS,Asia,South-Eastern Asia,Kuala Lumpur,2.5,112.5,30430500
+Philippines,PH,PHL,Asia,South-Eastern Asia,Manila,13.0,122.0,100697400
+Singapore,SG,SGP,Asia,South-Eastern Asia,Singapore,1.36666666,103.8,5469700
+Thailand,TH,THA,Asia,South-Eastern Asia,Bangkok,15.0,100.0,64871000
+Vietnam,VN,VNM,Asia,South-Eastern Asia,Hanoi,16.16666666,107.83333333,89708900
+Bangladesh,BD,BGD,Asia,Southern Asia,Dhaka,24.0,90.0,157486000
+India,IN,IND,Asia,Southern Asia,New Delhi,20.0,77.0,1263930000
+Nepal,NP,NPL,Asia,Southern Asia,Kathmandu,28.0,84.0,27646053
+Pakistan,PK,PAK,Asia,Southern Asia,Islamabad,30.0,70.0,188410000
+Sri Lanka,LK,LKA,Asia,Southern Asia,Colombo,7.0,81.0,20277597
+Armenia,AM,ARM,Asia,Western Asia,Yerevan,40.0,45.0,3009800
+Azerbaijan,AZ,AZE,Asia,Western Asia,Baku,40.5,47.5,9552500
+Bahrain,BH,BHR,Asia,Western Asia,Manama,26.0,50.55,1316500
+Georgia,GE,GEO,Asia,Western Asia,Tbilisi,42.0,43.5,4490500
+Iraq,IQ,IRQ,Asia,Western Asia,Baghdad,33.0,44.0,36004552
+Israel,IL,ISR,Asia,Western Asia,Jerusalem,31.5,34.75,8268400
+Jordan,JO,JOR,Asia,Western Asia,Amman,31.0,36.0,6666960
+Kuwait,KW,KWT,Asia,Western Asia,Kuwait City,29.5,45.75,3268431
+Lebanon,LB,LBN,Asia,Western Asia,Beirut,33.83333333,35.83333333,4104000
+Oman,OM,OMN,Asia,Western Asia,Muscat,21.0,57.0,4089076
+Qatar,QA,QAT,Asia,Western Asia,Doha,25.5,51.25,2269672
+Saudi Arabia,SA,SAU,Asia,Western Asia,Riyadh,25.0,45.0,30770375
+Turkey,TR,TUR,Asia,Western Asia,Ankara,39.0,35.0,76667864
+United Arab Emirates,AE,ARE,Asia,Western Asia,Abu Dhabi,24.0,54.0,9446000
+Belarus,BY,BLR,Europe,Eastern Europe,Minsk,53.0,28.0,9475100
+Bulgaria,BG,BGR,Europe,Eastern Europe,Sofia,43.0,25.0,7245677
+Czechia,CZ,CZE,Europe,Eastern Europe,Prague,49.75,15.5,10521600
+Hungary,HU,HUN,Europe,Eastern Europe,Budapest,47.0,20.0,9879000
+Moldova,MD,MDA,Europe,Eastern Europe,Chișinău,47.0,29.0,3557600
+Poland,PL,POL,Europe,Eastern Europe,Warsaw,52.0,20.0,38496000
+Romania,RO,ROU,Europe,Eastern Europe,Bucharest,46.0,25.0,19942642
+Serbia,RS,SRB,Europe,Eastern Europe,Belgrade,44.1305021,16.4284181,7186862
+Slovakia,SK,SVK,Europe,Eastern Europe,Bratislava,48.66666666,19.5,5415949
+Ukraine,UA,UKR,Europe,Eastern Europe,Kiev,49.0,32.0,42973696
+Denmark,DK,DNK,Europe,Northern Europe,Copenhagen,56.0,10.0,5655750
+Estonia,EE,EST,Europe,Northern Europe,Tallinn,59.0,26.0,1315819
+Finland,FI,FIN,Europe,Northern Europe,Helsinki,64.0,26.0,5470437
+Iceland,IS,ISL,Europe,Northern Europe,Reykjavik,65.0,-18.0,328170
+Ireland,IE,IRL,Europe,Northern Europe,Dublin,53.0,-8.0,6378000
+Latvia,LV,LVA,Europe,Northern Europe,Riga,57.0,25.0,1991800
+Lithuania,LT,LTU,Europe,Northern Europe,Vilnius,56.0,24.0,2927310
+Norway,NO,NOR,Europe,Northern Europe,Oslo,62.0,10.0,5156450
+Sweden,SE,SWE,Europe,Northern Europe,Stockholm,62.0,15.0,9737521
+United Kingdom,GB,GBR,Europe,Northern Europe,London,54.0,-2.0,64105654
+Bosnia and Herzegovina,BA,BIH,Europe,Southern Europe,Sarajevo,44.0,18.0,3791622
+Croatia,HR,HRV,Europe,Southern Europe,Zagreb,45.16666666,15.5,4267558
+Greece,GR,GRC,Europe,Southern Europe,Athens,39.0,22.0,10992589
+Italy,IT,ITA,Europe,Southern Europe,Rome,42.83333333,12.83333333,60769102
+North Macedonia,MK,MKD,Europe,Southern Europe,Skopje,41.83333333,22.0,2058539
+Portugal,PT,PRT,Europe,Southern Europe,Lisbon,39.5,-8.0,10477800
+Slovenia,SI,SVN,Europe,Southern Europe,Ljubljana,46.11666666,14.81666666,2064966
+Spain,ES,ESP,Europe,Southern Europe,Madrid,40.0,-4.0,46507760
+Austria,AT,AUT,Europe,Western Europe,Vienna,47.33333333,13.33333333,8527230
+Belgium,BE,BEL,Europe,Western Europe,Brussels,50.83333333,4.0,11225469
+France,FR,FRA,Europe,Western Europe,Paris,46.0,2.0,66078000
+Germany,DE,DEU,Europe,Western Europe,Berlin,51.0,9.0,80783000
+Netherlands,NL,NLD,Europe,Western Europe,Amsterdam,52.5,5.75,16881000
+Switzerland,CH,CHE,Europe,Western Europe,Bern,47.0,8.0,8183800
+Australia,AU,AUS,Oceania,Australia and New Zealand,Canberra,-27.0,133.0,23696900
+New Zealand,NZ,NZL,Oceania,Australia and New Zealand,Wellington,-41.0,174.0,4547900

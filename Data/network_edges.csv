@@ -1,0 +1,1297 @@
+source_country,source_iso3,target_country,target_iso3,edge_weight,edge_rank,relationship_type,same_region,distance_km_approx,synthetic_flag
+Angola,AGO,Cameroon,CMR,0.123651,1,Regional,Yes,2179.0,Yes
+Angola,AGO,Tanzania,TZA,0.0839,2,Adjacent region,Yes,1949.0,Yes
+Angola,AGO,South Africa,ZAF,0.083548,3,Adjacent region,Yes,1921.0,Yes
+Angola,AGO,Nigeria,NGA,0.082694,4,Adjacent region,Yes,2758.0,Yes
+Angola,AGO,Zambia,ZMB,0.081384,5,Adjacent region,Yes,1273.0,Yes
+Angola,AGO,Zimbabwe,ZWE,0.08133,6,Adjacent region,Yes,1483.0,Yes
+Angola,AGO,Uganda,UGA,0.080018,7,Adjacent region,Yes,2115.0,Yes
+Angola,AGO,Mozambique,MOZ,0.078921,8,Adjacent region,Yes,1880.0,Yes
+Angola,AGO,Ethiopia,ETH,0.078722,9,Adjacent region,Yes,3137.0,Yes
+Angola,AGO,Namibia,NAM,0.077461,10,Adjacent region,Yes,1068.0,Yes
+Angola,AGO,Kenya,KEN,0.075292,11,Adjacent region,Yes,2624.0,Yes
+Angola,AGO,Ghana,GHA,0.073079,12,Adjacent region,Yes,3214.0,Yes
+United Arab Emirates,ARE,Saudi Arabia,SAU,0.090562,1,Regional,Yes,917.0,Yes
+United Arab Emirates,ARE,Qatar,QAT,0.089207,2,Regional,Yes,324.0,Yes
+United Arab Emirates,ARE,Oman,OMN,0.088897,3,Regional,Yes,454.0,Yes
+United Arab Emirates,ARE,Iraq,IRQ,0.086681,4,Regional,Yes,1397.0,Yes
+United Arab Emirates,ARE,Bahrain,BHR,0.085051,5,Regional,Yes,413.0,Yes
+United Arab Emirates,ARE,Turkey,TUR,0.083146,6,Regional,Yes,2445.0,Yes
+United Arab Emirates,ARE,Kuwait,KWT,0.082607,7,Regional,Yes,1022.0,Yes
+United Arab Emirates,ARE,Azerbaijan,AZE,0.08082,8,Regional,Yes,1932.0,Yes
+United Arab Emirates,ARE,Jordan,JOR,0.079712,9,Regional,Yes,1935.0,Yes
+United Arab Emirates,ARE,Israel,ISR,0.079629,10,Regional,Yes,2066.0,Yes
+United Arab Emirates,ARE,Lebanon,LBN,0.077609,11,Regional,Yes,2074.0,Yes
+United Arab Emirates,ARE,Armenia,ARM,0.076079,12,Regional,Yes,1968.0,Yes
+Argentina,ARG,Chile,CHL,0.106573,1,Regional,Yes,796.0,Yes
+Argentina,ARG,Brazil,BRA,0.10178,2,Regional,Yes,2822.0,Yes
+Argentina,ARG,Uruguay,URY,0.100215,3,Regional,Yes,750.0,Yes
+Argentina,ARG,Paraguay,PRY,0.096163,4,Regional,Yes,1356.0,Yes
+Argentina,ARG,Bolivia,BOL,0.093785,5,Regional,Yes,1893.0,Yes
+Argentina,ARG,Peru,PER,0.092943,6,Regional,Yes,2936.0,Yes
+Argentina,ARG,Colombia,COL,0.089258,7,Regional,Yes,4308.0,Yes
+Argentina,ARG,Venezuela,VEN,0.088115,8,Regional,Yes,4675.0,Yes
+Argentina,ARG,Ecuador,ECU,0.086949,9,Regional,Yes,3825.0,Yes
+Argentina,ARG,United States,USA,0.050605,10,Adjacent region,Yes,8701.0,Yes
+Argentina,ARG,Mexico,MEX,0.049027,11,Adjacent region,Yes,7504.0,Yes
+Argentina,ARG,Dominican Republic,DOM,0.044587,12,Adjacent region,Yes,5936.0,Yes
+Armenia,ARM,Turkey,TUR,0.091566,1,Regional,Yes,865.0,Yes
+Armenia,ARM,Iraq,IRQ,0.091384,2,Regional,Yes,783.0,Yes
+Armenia,ARM,Azerbaijan,AZE,0.090942,3,Regional,Yes,219.0,Yes
+Armenia,ARM,Georgia,GEO,0.089231,4,Regional,Yes,256.0,Yes
+Armenia,ARM,Saudi Arabia,SAU,0.084506,5,Regional,Yes,1668.0,Yes
+Armenia,ARM,Lebanon,LBN,0.082164,6,Regional,Yes,1064.0,Yes
+Armenia,ARM,Israel,ISR,0.08154,7,Regional,Yes,1321.0,Yes
+Armenia,ARM,Jordan,JOR,0.080576,8,Regional,Yes,1289.0,Yes
+Armenia,ARM,Kuwait,KWT,0.079953,9,Regional,Yes,1170.0,Yes
+Armenia,ARM,United Arab Emirates,ARE,0.078813,10,Regional,Yes,1968.0,Yes
+Armenia,ARM,Qatar,QAT,0.075069,11,Regional,Yes,1714.0,Yes
+Armenia,ARM,Bahrain,BHR,0.074256,12,Regional,Yes,1640.0,Yes
+Australia,AUS,New Zealand,NZL,0.171303,1,Regional,Yes,4043.0,Yes
+Australia,AUS,Indonesia,IDN,0.095382,2,Cross-regional,No,2808.0,Yes
+Australia,AUS,India,IND,0.084853,3,Cross-regional,No,7980.0,Yes
+Australia,AUS,China,CHN,0.083089,4,Cross-regional,No,7496.0,Yes
+Australia,AUS,Philippines,PHL,0.078476,5,Cross-regional,No,4604.0,Yes
+Australia,AUS,Vietnam,VNM,0.074893,6,Cross-regional,No,5515.0,Yes
+Australia,AUS,Malaysia,MYS,0.0739,7,Cross-regional,No,3949.0,Yes
+Australia,AUS,Bangladesh,BGD,0.071257,8,Cross-regional,No,7312.0,Yes
+Australia,AUS,Japan,JPN,0.06928,9,Cross-regional,No,7025.0,Yes
+Australia,AUS,Thailand,THA,0.06778,10,Cross-regional,No,5874.0,Yes
+Australia,AUS,Pakistan,PAK,0.06707,11,Cross-regional,No,9220.0,Yes
+Australia,AUS,Taiwan,TWN,0.062717,12,Cross-regional,No,5761.0,Yes
+Austria,AUT,Germany,DEU,0.109476,1,Regional,Yes,515.0,Yes
+Austria,AUT,France,FRA,0.103996,2,Regional,Yes,877.0,Yes
+Austria,AUT,Switzerland,CHE,0.103643,3,Regional,Yes,405.0,Yes
+Austria,AUT,Belgium,BEL,0.100881,4,Regional,Yes,782.0,Yes
+Austria,AUT,Netherlands,NLD,0.100741,5,Regional,Yes,790.0,Yes
+Austria,AUT,Italy,ITA,0.072941,6,Adjacent region,Yes,502.0,Yes
+Austria,AUT,Czechia,CZE,0.070498,7,Adjacent region,Yes,312.0,Yes
+Austria,AUT,Poland,POL,0.070463,8,Adjacent region,Yes,706.0,Yes
+Austria,AUT,Serbia,SRB,0.067392,9,Adjacent region,Yes,430.0,Yes
+Austria,AUT,Hungary,HUN,0.067058,10,Adjacent region,Yes,505.0,Yes
+Austria,AUT,Croatia,HRV,0.066802,11,Adjacent region,Yes,293.0,Yes
+Austria,AUT,Slovenia,SVN,0.066109,12,Adjacent region,Yes,176.0,Yes
+Azerbaijan,AZE,Iraq,IRQ,0.090075,1,Regional,Yes,890.0,Yes
+Azerbaijan,AZE,Turkey,TUR,0.08996,2,Regional,Yes,1081.0,Yes
+Azerbaijan,AZE,Georgia,GEO,0.089728,3,Regional,Yes,374.0,Yes
+Azerbaijan,AZE,Armenia,ARM,0.089661,4,Regional,Yes,219.0,Yes
+Azerbaijan,AZE,Saudi Arabia,SAU,0.084962,5,Regional,Yes,1739.0,Yes
+Azerbaijan,AZE,Israel,ISR,0.082025,6,Regional,Yes,1519.0,Yes
+Azerbaijan,AZE,Jordan,JOR,0.081336,7,Regional,Yes,1478.0,Yes
+Azerbaijan,AZE,Lebanon,LBN,0.080527,8,Regional,Yes,1270.0,Yes
+Azerbaijan,AZE,United Arab Emirates,ARE,0.080382,9,Regional,Yes,1932.0,Yes
+Azerbaijan,AZE,Kuwait,KWT,0.080308,10,Regional,Yes,1233.0,Yes
+Azerbaijan,AZE,Bahrain,BHR,0.07584,11,Regional,Yes,1637.0,Yes
+Azerbaijan,AZE,Qatar,QAT,0.075196,12,Regional,Yes,1704.0,Yes
+Belgium,BEL,Germany,DEU,0.113371,1,Regional,Yes,351.0,Yes
+Belgium,BEL,France,FRA,0.110625,2,Regional,Yes,557.0,Yes
+Belgium,BEL,Netherlands,NLD,0.108982,3,Regional,Yes,221.0,Yes
+Belgium,BEL,Switzerland,CHE,0.102264,4,Regional,Yes,517.0,Yes
+Belgium,BEL,Austria,AUT,0.100409,5,Regional,Yes,782.0,Yes
+Belgium,BEL,United Kingdom,GBR,0.074316,6,Adjacent region,Yes,538.0,Yes
+Belgium,BEL,Italy,ITA,0.067211,7,Adjacent region,Yes,1113.0,Yes
+Belgium,BEL,Poland,POL,0.066393,8,Adjacent region,Yes,1115.0,Yes
+Belgium,BEL,Spain,ESP,0.065181,9,Adjacent region,Yes,1355.0,Yes
+Belgium,BEL,Denmark,DNK,0.065099,10,Adjacent region,Yes,698.0,Yes
+Belgium,BEL,Czechia,CZE,0.064067,11,Adjacent region,Yes,825.0,Yes
+Belgium,BEL,Ireland,IRL,0.062082,12,Adjacent region,Yes,856.0,Yes
+Bangladesh,BGD,India,IND,0.126885,1,Regional,Yes,1411.0,Yes
+Bangladesh,BGD,Nepal,NPL,0.117854,2,Regional,Yes,746.0,Yes
+Bangladesh,BGD,Pakistan,PAK,0.114388,3,Regional,Yes,2087.0,Yes
+Bangladesh,BGD,Sri Lanka,LKA,0.10393,4,Regional,Yes,2120.0,Yes
+Bangladesh,BGD,China,CHN,0.082593,5,Adjacent region,Yes,1894.0,Yes
+Bangladesh,BGD,Thailand,THA,0.073497,6,Adjacent region,Yes,1448.0,Yes
+Bangladesh,BGD,Vietnam,VNM,0.071483,7,Adjacent region,Yes,2053.0,Yes
+Bangladesh,BGD,Cambodia,KHM,0.063696,8,Adjacent region,Yes,1997.0,Yes
+Bangladesh,BGD,Philippines,PHL,0.062384,9,Adjacent region,Yes,3578.0,Yes
+Bangladesh,BGD,Indonesia,IDN,0.062184,10,Adjacent region,Yes,4579.0,Yes
+Bangladesh,BGD,South Korea,KOR,0.060648,11,Adjacent region,Yes,3842.0,Yes
+Bangladesh,BGD,Japan,JPN,0.060458,12,Adjacent region,Yes,4760.0,Yes
+Bulgaria,BGR,Romania,ROU,0.096316,1,Regional,Yes,334.0,Yes
+Bulgaria,BGR,Ukraine,UKR,0.093437,2,Regional,Yes,858.0,Yes
+Bulgaria,BGR,Poland,POL,0.092908,3,Regional,Yes,1068.0,Yes
+Bulgaria,BGR,Hungary,HUN,0.091452,4,Regional,Yes,593.0,Yes
+Bulgaria,BGR,Moldova,MDA,0.089025,5,Regional,Yes,545.0,Yes
+Bulgaria,BGR,Slovakia,SVK,0.08892,6,Regional,Yes,760.0,Yes
+Bulgaria,BGR,Czechia,CZE,0.088889,7,Regional,Yes,1045.0,Yes
+Bulgaria,BGR,Serbia,SRB,0.088674,8,Regional,Yes,702.0,Yes
+Bulgaria,BGR,Belarus,BLR,0.087474,9,Regional,Yes,1134.0,Yes
+Bulgaria,BGR,Italy,ITA,0.062445,10,Adjacent region,Yes,990.0,Yes
+Bulgaria,BGR,Greece,GRC,0.060729,11,Adjacent region,Yes,511.0,Yes
+Bulgaria,BGR,Germany,DEU,0.059731,12,Adjacent region,Yes,1499.0,Yes
+Bahrain,BHR,Saudi Arabia,SAU,0.091897,1,Regional,Yes,568.0,Yes
+Bahrain,BHR,United Arab Emirates,ARE,0.088643,2,Regional,Yes,413.0,Yes
+Bahrain,BHR,Qatar,QAT,0.087892,3,Regional,Yes,89.0,Yes
+Bahrain,BHR,Iraq,IRQ,0.087102,4,Regional,Yes,1003.0,Yes
+Bahrain,BHR,Turkey,TUR,0.084353,5,Regional,Yes,2047.0,Yes
+Bahrain,BHR,Oman,OMN,0.083367,6,Regional,Yes,861.0,Yes
+Bahrain,BHR,Kuwait,KWT,0.083251,7,Regional,Yes,612.0,Yes
+Bahrain,BHR,Jordan,JOR,0.079864,8,Regional,Yes,1525.0,Yes
+Bahrain,BHR,Azerbaijan,AZE,0.079769,9,Regional,Yes,1637.0,Yes
+Bahrain,BHR,Israel,ISR,0.079459,10,Regional,Yes,1655.0,Yes
+Bahrain,BHR,Lebanon,LBN,0.078043,11,Regional,Yes,1662.0,Yes
+Bahrain,BHR,Georgia,GEO,0.07636,12,Regional,Yes,1892.0,Yes
+Bosnia and Herzegovina,BIH,Italy,ITA,0.104045,1,Regional,Yes,437.0,Yes
+Bosnia and Herzegovina,BIH,Croatia,HRV,0.097699,2,Regional,Yes,237.0,Yes
+Bosnia and Herzegovina,BIH,Greece,GRC,0.097483,3,Regional,Yes,648.0,Yes
+Bosnia and Herzegovina,BIH,North Macedonia,MKD,0.09436,4,Regional,Yes,405.0,Yes
+Bosnia and Herzegovina,BIH,Slovenia,SVN,0.093547,5,Regional,Yes,343.0,Yes
+Bosnia and Herzegovina,BIH,Spain,ESP,0.093277,6,Regional,Yes,1865.0,Yes
+Bosnia and Herzegovina,BIH,Portugal,PRT,0.085889,7,Regional,Yes,2204.0,Yes
+Bosnia and Herzegovina,BIH,Serbia,SRB,0.069031,8,Adjacent region,Yes,126.0,Yes
+Bosnia and Herzegovina,BIH,Romania,ROU,0.06736,9,Adjacent region,Yes,593.0,Yes
+Bosnia and Herzegovina,BIH,Germany,DEU,0.066341,10,Adjacent region,Yes,1029.0,Yes
+Bosnia and Herzegovina,BIH,Hungary,HUN,0.065901,11,Adjacent region,Yes,368.0,Yes
+Bosnia and Herzegovina,BIH,France,FRA,0.065067,12,Adjacent region,Yes,1275.0,Yes
+Belarus,BLR,Ukraine,UKR,0.097703,1,Regional,Yes,525.0,Yes
+Belarus,BLR,Poland,POL,0.096923,2,Regional,Yes,553.0,Yes
+Belarus,BLR,Romania,ROU,0.092097,3,Regional,Yes,808.0,Yes
+Belarus,BLR,Czechia,CZE,0.09125,4,Regional,Yes,938.0,Yes
+Belarus,BLR,Hungary,HUN,0.090096,5,Regional,Yes,878.0,Yes
+Belarus,BLR,Moldova,MDA,0.089485,6,Regional,Yes,671.0,Yes
+Belarus,BLR,Slovakia,SVK,0.08841,7,Regional,Yes,766.0,Yes
+Belarus,BLR,Bulgaria,BGR,0.087265,8,Regional,Yes,1134.0,Yes
+Belarus,BLR,Serbia,SRB,0.086607,9,Regional,Yes,1300.0,Yes
+Belarus,BLR,Germany,DEU,0.062089,10,Adjacent region,Yes,1316.0,Yes
+Belarus,BLR,Italy,ITA,0.059253,11,Adjacent region,Yes,1592.0,Yes
+Belarus,BLR,Lithuania,LTU,0.058822,12,Adjacent region,Yes,422.0,Yes
+Bolivia,BOL,Brazil,BRA,0.105375,1,Regional,Yes,1332.0,Yes
+Bolivia,BOL,Peru,PER,0.098824,2,Regional,Yes,1421.0,Yes
+Bolivia,BOL,Paraguay,PRY,0.097466,3,Regional,Yes,990.0,Yes
+Bolivia,BOL,Argentina,ARG,0.096993,4,Regional,Yes,1893.0,Yes
+Bolivia,BOL,Chile,CHL,0.094154,5,Regional,Yes,1569.0,Yes
+Bolivia,BOL,Colombia,COL,0.09204,6,Regional,Yes,2458.0,Yes
+Bolivia,BOL,Ecuador,ECU,0.090499,7,Regional,Yes,2156.0,Yes
+Bolivia,BOL,Venezuela,VEN,0.089176,8,Regional,Yes,2782.0,Yes
+Bolivia,BOL,Uruguay,URY,0.087852,9,Regional,Yes,1995.0,Yes
+Bolivia,BOL,United States,USA,0.05189,10,Adjacent region,Yes,6969.0,Yes
+Bolivia,BOL,Mexico,MEX,0.049196,11,Adjacent region,Yes,5997.0,Yes
+Bolivia,BOL,Dominican Republic,DOM,0.046535,12,Adjacent region,Yes,4051.0,Yes
+Brazil,BRA,Bolivia,BOL,0.099657,1,Regional,Yes,1332.0,Yes
+Brazil,BRA,Colombia,COL,0.097376,2,Regional,Yes,2443.0,Yes
+Brazil,BRA,Venezuela,VEN,0.096536,3,Regional,Yes,2343.0,Yes
+Brazil,BRA,Paraguay,PRY,0.096232,4,Regional,Yes,1480.0,Yes
+Brazil,BRA,Peru,PER,0.094814,5,Regional,Yes,2299.0,Yes
+Brazil,BRA,Argentina,ARG,0.093163,6,Regional,Yes,2822.0,Yes
+Brazil,BRA,Chile,CHL,0.092031,7,Regional,Yes,2775.0,Yes
+Brazil,BRA,Ecuador,ECU,0.09121,8,Regional,Yes,2640.0,Yes
+Brazil,BRA,Uruguay,URY,0.085044,9,Regional,Yes,2560.0,Yes
+Brazil,BRA,United States,USA,0.053598,10,Adjacent region,Yes,6892.0,Yes
+Brazil,BRA,Mexico,MEX,0.052049,11,Adjacent region,Yes,6294.0,Yes
+Brazil,BRA,Dominican Republic,DOM,0.04829,12,Adjacent region,Yes,3654.0,Yes
+Botswana,BWA,South Africa,ZAF,0.132459,1,Regional,Yes,778.0,Yes
+Botswana,BWA,Namibia,NAM,0.119729,2,Regional,Yes,722.0,Yes
+Botswana,BWA,Zimbabwe,ZWE,0.083887,3,Adjacent region,Yes,661.0,Yes
+Botswana,BWA,Zambia,ZMB,0.081508,4,Adjacent region,Yes,1003.0,Yes
+Botswana,BWA,Angola,AGO,0.080156,5,Adjacent region,Yes,1207.0,Yes
+Botswana,BWA,Mozambique,MOZ,0.079183,6,Adjacent region,Yes,1221.0,Yes
+Botswana,BWA,Tanzania,TZA,0.074642,7,Adjacent region,Yes,2136.0,Yes
+Botswana,BWA,Nigeria,NGA,0.073113,8,Adjacent region,Yes,3963.0,Yes
+Botswana,BWA,Kenya,KEN,0.071381,9,Adjacent region,Yes,2975.0,Yes
+Botswana,BWA,Uganda,UGA,0.070458,10,Adjacent region,Yes,2701.0,Yes
+Botswana,BWA,Ethiopia,ETH,0.068253,11,Adjacent region,Yes,3668.0,Yes
+Botswana,BWA,Cameroon,CMR,0.065231,12,Adjacent region,Yes,3377.0,Yes
+Canada,CAN,United States,USA,0.167783,1,Regional,Yes,2450.0,Yes
+Canada,CAN,Mexico,MEX,0.090056,2,Adjacent region,Yes,4150.0,Yes
+Canada,CAN,Brazil,BRA,0.083545,3,Adjacent region,Yes,8550.0,Yes
+Canada,CAN,Colombia,COL,0.076843,4,Adjacent region,Yes,6527.0,Yes
+Canada,CAN,Guatemala,GTM,0.076722,5,Adjacent region,Yes,4963.0,Yes
+Canada,CAN,Venezuela,VEN,0.076321,6,Adjacent region,Yes,6270.0,Yes
+Canada,CAN,Dominican Republic,DOM,0.075781,7,Adjacent region,Yes,4953.0,Yes
+Canada,CAN,Peru,PER,0.072875,8,Adjacent region,Yes,7965.0,Yes
+Canada,CAN,Honduras,HND,0.072577,9,Adjacent region,Yes,5051.0,Yes
+Canada,CAN,El Salvador,SLV,0.071299,10,Adjacent region,Yes,5158.0,Yes
+Canada,CAN,Ecuador,ECU,0.068418,11,Adjacent region,Yes,7060.0,Yes
+Canada,CAN,Nicaragua,NIC,0.06778,12,Adjacent region,Yes,5290.0,Yes
+Switzerland,CHE,Germany,DEU,0.111697,1,Regional,Yes,451.0,Yes
+Switzerland,CHE,France,FRA,0.110011,2,Regional,Yes,472.0,Yes
+Switzerland,CHE,Netherlands,NLD,0.104046,3,Regional,Yes,632.0,Yes
+Switzerland,CHE,Belgium,BEL,0.103057,4,Regional,Yes,517.0,Yes
+Switzerland,CHE,Austria,AUT,0.103004,5,Regional,Yes,405.0,Yes
+Switzerland,CHE,Italy,ITA,0.072241,6,Adjacent region,Yes,599.0,Yes
+Switzerland,CHE,United Kingdom,GBR,0.06932,7,Adjacent region,Yes,1050.0,Yes
+Switzerland,CHE,Poland,POL,0.066943,8,Adjacent region,Yes,1028.0,Yes
+Switzerland,CHE,Spain,ESP,0.065621,9,Adjacent region,Yes,1240.0,Yes
+Switzerland,CHE,Czechia,CZE,0.065124,10,Adjacent region,Yes,632.0,Yes
+Switzerland,CHE,Serbia,SRB,0.065006,11,Adjacent region,Yes,729.0,Yes
+Switzerland,CHE,Croatia,HRV,0.06393,12,Adjacent region,Yes,613.0,Yes
+Chile,CHL,Argentina,ARG,0.106273,1,Regional,Yes,796.0,Yes
+Chile,CHL,Brazil,BRA,0.100913,2,Regional,Yes,2775.0,Yes
+Chile,CHL,Peru,PER,0.096559,3,Regional,Yes,2284.0,Yes
+Chile,CHL,Bolivia,BOL,0.095307,4,Regional,Yes,1569.0,Yes
+Chile,CHL,Paraguay,PRY,0.094038,5,Regional,Yes,1508.0,Yes
+Chile,CHL,Uruguay,URY,0.09255,6,Regional,Yes,1459.0,Yes
+Chile,CHL,Colombia,COL,0.091461,7,Regional,Yes,3782.0,Yes
+Chile,CHL,Ecuador,ECU,0.088163,8,Regional,Yes,3188.0,Yes
+Chile,CHL,Venezuela,VEN,0.085976,9,Regional,Yes,4259.0,Yes
+Chile,CHL,United States,USA,0.051853,10,Adjacent region,Yes,8029.0,Yes
+Chile,CHL,Mexico,MEX,0.050075,11,Adjacent region,Yes,6760.0,Yes
+Chile,CHL,Guatemala,GTM,0.046832,12,Adjacent region,Yes,5464.0,Yes
+China,CHN,South Korea,KOR,0.110348,1,Regional,Yes,2031.0,Yes
+China,CHN,Japan,JPN,0.108647,2,Regional,Yes,2975.0,Yes
+China,CHN,Taiwan,TWN,0.107818,3,Regional,Yes,2006.0,Yes
+China,CHN,Mongolia,MNG,0.105567,4,Regional,Yes,1223.0,Yes
+China,CHN,India,IND,0.078588,5,Adjacent region,Yes,3209.0,Yes
+China,CHN,Bangladesh,BGD,0.077637,6,Adjacent region,Yes,1894.0,Yes
+China,CHN,Vietnam,VNM,0.073202,7,Adjacent region,Yes,2113.0,Yes
+China,CHN,Pakistan,PAK,0.069333,8,Adjacent region,Yes,3312.0,Yes
+China,CHN,Thailand,THA,0.069226,9,Adjacent region,Yes,2279.0,Yes
+China,CHN,Nepal,NPL,0.068478,10,Adjacent region,Yes,2132.0,Yes
+China,CHN,Philippines,PHL,0.067442,11,Adjacent region,Yes,2984.0,Yes
+China,CHN,Indonesia,IDN,0.063714,12,Adjacent region,Yes,4717.0,Yes
+Cameroon,CMR,Angola,AGO,0.125912,1,Regional,Yes,2179.0,Yes
+Cameroon,CMR,Nigeria,NGA,0.105937,2,Adjacent region,Yes,626.0,Yes
+Cameroon,CMR,Ghana,GHA,0.082462,3,Adjacent region,Yes,1561.0,Yes
+Cameroon,CMR,Ethiopia,ETH,0.079972,4,Adjacent region,Yes,2878.0,Yes
+Cameroon,CMR,Algeria,DZA,0.079539,5,Adjacent region,Yes,2624.0,Yes
+Cameroon,CMR,Uganda,UGA,0.079476,6,Adjacent region,Yes,2288.0,Yes
+Cameroon,CMR,Egypt,EGY,0.077987,7,Adjacent region,Yes,3013.0,Yes
+Cameroon,CMR,Tanzania,TZA,0.07793,8,Adjacent region,Yes,2880.0,Yes
+Cameroon,CMR,Kenya,KEN,0.074823,9,Adjacent region,Yes,2938.0,Yes
+Cameroon,CMR,South Africa,ZAF,0.073294,10,Adjacent region,Yes,4098.0,Yes
+Cameroon,CMR,Morocco,MAR,0.072701,11,Adjacent region,Yes,3388.0,Yes
+Cameroon,CMR,Zambia,ZMB,0.069967,12,Adjacent region,Yes,3064.0,Yes
+Colombia,COL,Venezuela,VEN,0.105069,1,Regional,Yes,799.0,Yes
+Colombia,COL,Ecuador,ECU,0.101604,2,Regional,Yes,905.0,Yes
+Colombia,COL,Brazil,BRA,0.099747,3,Regional,Yes,2443.0,Yes
+Colombia,COL,Peru,PER,0.098786,4,Regional,Yes,1619.0,Yes
+Colombia,COL,Bolivia,BOL,0.088427,5,Regional,Yes,2458.0,Yes
+Colombia,COL,Argentina,ARG,0.087875,6,Regional,Yes,4308.0,Yes
+Colombia,COL,Chile,CHL,0.086254,7,Regional,Yes,3782.0,Yes
+Colombia,COL,Paraguay,PRY,0.082457,8,Regional,Yes,3365.0,Yes
+Colombia,COL,Uruguay,URY,0.077332,9,Regional,Yes,4446.0,Yes
+Colombia,COL,Panama,PAN,0.058668,10,Adjacent region,Yes,1044.0,Yes
+Colombia,COL,Dominican Republic,DOM,0.057052,11,Adjacent region,Yes,1674.0,Yes
+Colombia,COL,Costa Rica,CRI,0.056729,12,Adjacent region,Yes,1482.0,Yes
+Costa Rica,CRI,Nicaragua,NIC,0.107971,1,Regional,Yes,351.0,Yes
+Costa Rica,CRI,Honduras,HND,0.105117,2,Regional,Yes,619.0,Yes
+Costa Rica,CRI,Panama,PAN,0.103472,3,Regional,Yes,453.0,Yes
+Costa Rica,CRI,Guatemala,GTM,0.103097,4,Regional,Yes,913.0,Yes
+Costa Rica,CRI,El Salvador,SLV,0.10272,5,Regional,Yes,684.0,Yes
+Costa Rica,CRI,Mexico,MEX,0.101844,6,Regional,Yes,2398.0,Yes
+Costa Rica,CRI,Colombia,COL,0.067692,7,Adjacent region,Yes,1482.0,Yes
+Costa Rica,CRI,Ecuador,ECU,0.063758,8,Adjacent region,Yes,1516.0,Yes
+Costa Rica,CRI,United States,USA,0.062234,9,Adjacent region,Yes,3373.0,Yes
+Costa Rica,CRI,Venezuela,VEN,0.061951,10,Adjacent region,Yes,1989.0,Yes
+Costa Rica,CRI,Peru,PER,0.060292,11,Adjacent region,Yes,2394.0,Yes
+Costa Rica,CRI,Brazil,BRA,0.059852,12,Adjacent region,Yes,3904.0,Yes
+Czechia,CZE,Poland,POL,0.095944,1,Regional,Yes,403.0,Yes
+Czechia,CZE,Slovakia,SVK,0.091578,2,Regional,Yes,315.0,Yes
+Czechia,CZE,Ukraine,UKR,0.091434,3,Regional,Yes,1195.0,Yes
+Czechia,CZE,Hungary,HUN,0.091046,4,Regional,Yes,451.0,Yes
+Czechia,CZE,Romania,ROU,0.090791,5,Regional,Yes,821.0,Yes
+Czechia,CZE,Serbia,SRB,0.089995,6,Regional,Yes,629.0,Yes
+Czechia,CZE,Belarus,BLR,0.088325,7,Regional,Yes,938.0,Yes
+Czechia,CZE,Bulgaria,BGR,0.086528,8,Regional,Yes,1045.0,Yes
+Czechia,CZE,Moldova,MDA,0.083625,9,Regional,Yes,1041.0,Yes
+Czechia,CZE,Germany,DEU,0.06695,10,Adjacent region,Yes,481.0,Yes
+Czechia,CZE,Italy,ITA,0.062184,11,Adjacent region,Yes,796.0,Yes
+Czechia,CZE,France,FRA,0.0616,12,Adjacent region,Yes,1088.0,Yes
+Germany,DEU,France,FRA,0.108613,1,Regional,Yes,758.0,Yes
+Germany,DEU,Netherlands,NLD,0.108137,2,Regional,Yes,279.0,Yes
+Germany,DEU,Belgium,BEL,0.105965,3,Regional,Yes,351.0,Yes
+Germany,DEU,Switzerland,CHE,0.103241,4,Regional,Yes,451.0,Yes
+Germany,DEU,Austria,AUT,0.102644,5,Regional,Yes,515.0,Yes
+Germany,DEU,Italy,ITA,0.070436,6,Adjacent region,Yes,953.0,Yes
+Germany,DEU,United Kingdom,GBR,0.070169,7,Adjacent region,Yes,815.0,Yes
+Germany,DEU,Poland,POL,0.070003,8,Adjacent region,Yes,769.0,Yes
+Germany,DEU,Czechia,CZE,0.067528,9,Adjacent region,Yes,481.0,Yes
+Germany,DEU,Denmark,DNK,0.064946,10,Adjacent region,Yes,560.0,Yes
+Germany,DEU,Hungary,HUN,0.064567,11,Adjacent region,Yes,916.0,Yes
+Germany,DEU,Spain,ESP,0.063751,12,Adjacent region,Yes,1583.0,Yes
+Denmark,DNK,United Kingdom,GBR,0.100448,1,Regional,Yes,796.0,Yes
+Denmark,DNK,Sweden,SWE,0.095005,2,Regional,Yes,726.0,Yes
+Denmark,DNK,Norway,NOR,0.093357,3,Regional,Yes,667.0,Yes
+Denmark,DNK,Lithuania,LTU,0.089579,4,Regional,Yes,869.0,Yes
+Denmark,DNK,Finland,FIN,0.088725,5,Regional,Yes,1251.0,Yes
+Denmark,DNK,Ireland,IRL,0.088671,6,Regional,Yes,1205.0,Yes
+Denmark,DNK,Latvia,LVA,0.087532,7,Regional,Yes,925.0,Yes
+Denmark,DNK,Estonia,EST,0.083774,8,Regional,Yes,1009.0,Yes
+Denmark,DNK,Iceland,ISL,0.075096,9,Regional,Yes,1807.0,Yes
+Denmark,DNK,Germany,DEU,0.068969,10,Adjacent region,Yes,560.0,Yes
+Denmark,DNK,Poland,POL,0.064824,11,Adjacent region,Yes,789.0,Yes
+Denmark,DNK,Netherlands,NLD,0.06402,12,Adjacent region,Yes,477.0,Yes
+Dominican Republic,DOM,Jamaica,JAM,0.131109,1,Regional,Yes,725.0,Yes
+Dominican Republic,DOM,Colombia,COL,0.086384,2,Adjacent region,Yes,1674.0,Yes
+Dominican Republic,DOM,Venezuela,VEN,0.086192,3,Adjacent region,Yes,1323.0,Yes
+Dominican Republic,DOM,United States,USA,0.082813,4,Adjacent region,Yes,3308.0,Yes
+Dominican Republic,DOM,Brazil,BRA,0.08014,5,Adjacent region,Yes,3654.0,Yes
+Dominican Republic,DOM,Mexico,MEX,0.080102,6,Adjacent region,Yes,3277.0,Yes
+Dominican Republic,DOM,Guatemala,GTM,0.078192,7,Adjacent region,Yes,2114.0,Yes
+Dominican Republic,DOM,Nicaragua,NIC,0.076322,8,Adjacent region,Yes,1670.0,Yes
+Dominican Republic,DOM,Honduras,HND,0.075449,9,Adjacent region,Yes,1741.0,Yes
+Dominican Republic,DOM,Ecuador,ECU,0.075211,10,Adjacent region,Yes,2452.0,Yes
+Dominican Republic,DOM,El Salvador,SLV,0.074329,11,Adjacent region,Yes,2028.0,Yes
+Dominican Republic,DOM,Panama,PAN,0.073757,12,Adjacent region,Yes,1499.0,Yes
+Algeria,DZA,Morocco,MAR,0.133599,1,Regional,Yes,889.0,Yes
+Algeria,DZA,Tunisia,TUN,0.127008,2,Regional,Yes,878.0,Yes
+Algeria,DZA,Egypt,EGY,0.120834,3,Regional,Yes,2660.0,Yes
+Algeria,DZA,Nigeria,NGA,0.082936,4,Adjacent region,Yes,2069.0,Yes
+Algeria,DZA,Ghana,GHA,0.075063,5,Adjacent region,Yes,2285.0,Yes
+Algeria,DZA,Ethiopia,ETH,0.069942,6,Adjacent region,Yes,4292.0,Yes
+Algeria,DZA,Cameroon,CMR,0.069492,7,Adjacent region,Yes,2624.0,Yes
+Algeria,DZA,Senegal,SEN,0.069403,8,Adjacent region,Yes,2348.0,Yes
+Algeria,DZA,Kenya,KEN,0.064245,9,Adjacent region,Yes,4781.0,Yes
+Algeria,DZA,Uganda,UGA,0.063139,10,Adjacent region,Yes,4304.0,Yes
+Algeria,DZA,Tanzania,TZA,0.062481,11,Adjacent region,Yes,5107.0,Yes
+Algeria,DZA,Angola,AGO,0.061858,12,Adjacent region,Yes,4803.0,Yes
+Ecuador,ECU,Colombia,COL,0.104009,1,Regional,Yes,905.0,Yes
+Ecuador,ECU,Peru,PER,0.103529,2,Regional,Yes,905.0,Yes
+Ecuador,ECU,Brazil,BRA,0.098031,3,Regional,Yes,2640.0,Yes
+Ecuador,ECU,Venezuela,VEN,0.097172,4,Regional,Yes,1692.0,Yes
+Ecuador,ECU,Bolivia,BOL,0.090615,5,Regional,Yes,2156.0,Yes
+Ecuador,ECU,Argentina,ARG,0.088425,6,Regional,Yes,3825.0,Yes
+Ecuador,ECU,Chile,CHL,0.088214,7,Regional,Yes,3188.0,Yes
+Ecuador,ECU,Paraguay,PRY,0.083044,8,Regional,Yes,3142.0,Yes
+Ecuador,ECU,Uruguay,URY,0.076817,9,Regional,Yes,4112.0,Yes
+Ecuador,ECU,Panama,PAN,0.058246,10,Adjacent region,Yes,1254.0,Yes
+Ecuador,ECU,Guatemala,GTM,0.055994,11,Adjacent region,Yes,2398.0,Yes
+Ecuador,ECU,United States,USA,0.055904,12,Adjacent region,Yes,4879.0,Yes
+Egypt,EGY,Algeria,DZA,0.119212,1,Regional,Yes,2660.0,Yes
+Egypt,EGY,Tunisia,TUN,0.118252,2,Regional,Yes,2152.0,Yes
+Egypt,EGY,Morocco,MAR,0.115388,3,Regional,Yes,3418.0,Yes
+Egypt,EGY,Ethiopia,ETH,0.082926,4,Adjacent region,Yes,2275.0,Yes
+Egypt,EGY,Nigeria,NGA,0.081082,5,Adjacent region,Yes,2982.0,Yes
+Egypt,EGY,Kenya,KEN,0.072645,6,Adjacent region,Yes,3015.0,Yes
+Egypt,EGY,Uganda,UGA,0.072028,7,Adjacent region,Yes,2899.0,Yes
+Egypt,EGY,Cameroon,CMR,0.070679,8,Adjacent region,Yes,3013.0,Yes
+Egypt,EGY,Tanzania,TZA,0.068539,9,Adjacent region,Yes,3709.0,Yes
+Egypt,EGY,Ghana,GHA,0.067919,10,Adjacent region,Yes,3977.0,Yes
+Egypt,EGY,Turkey,TUR,0.065909,11,Cross-regional,No,1413.0,Yes
+Egypt,EGY,Angola,AGO,0.065421,12,Adjacent region,Yes,4564.0,Yes
+Spain,ESP,Portugal,PRT,0.109233,1,Regional,Yes,346.0,Yes
+Spain,ESP,Italy,ITA,0.10344,2,Regional,Yes,1436.0,Yes
+Spain,ESP,Croatia,HRV,0.094563,3,Regional,Yes,1692.0,Yes
+Spain,ESP,Bosnia and Herzegovina,BIH,0.092267,4,Regional,Yes,1865.0,Yes
+Spain,ESP,Greece,GRC,0.091911,5,Regional,Yes,2226.0,Yes
+Spain,ESP,Slovenia,SVN,0.089592,6,Regional,Yes,1668.0,Yes
+Spain,ESP,North Macedonia,MKD,0.086395,7,Regional,Yes,2186.0,Yes
+Spain,ESP,France,FRA,0.074448,8,Adjacent region,Yes,826.0,Yes
+Spain,ESP,Germany,DEU,0.066638,9,Adjacent region,Yes,1583.0,Yes
+Spain,ESP,United Kingdom,GBR,0.066116,10,Adjacent region,Yes,1564.0,Yes
+Spain,ESP,Switzerland,CHE,0.063439,11,Adjacent region,Yes,1240.0,Yes
+Spain,ESP,Belgium,BEL,0.061958,12,Adjacent region,Yes,1355.0,Yes
+Estonia,EST,Finland,FIN,0.096037,1,Regional,Yes,556.0,Yes
+Estonia,EST,United Kingdom,GBR,0.094465,2,Regional,Yes,1791.0,Yes
+Estonia,EST,Sweden,SWE,0.094418,3,Regional,Yes,687.0,Yes
+Estonia,EST,Latvia,LVA,0.094115,4,Regional,Yes,230.0,Yes
+Estonia,EST,Lithuania,LTU,0.093677,5,Regional,Yes,354.0,Yes
+Estonia,EST,Denmark,DNK,0.090925,6,Regional,Yes,1009.0,Yes
+Estonia,EST,Norway,NOR,0.090463,7,Regional,Yes,934.0,Yes
+Estonia,EST,Ireland,IRL,0.082418,8,Regional,Yes,2189.0,Yes
+Estonia,EST,Iceland,ISL,0.072971,9,Regional,Yes,2338.0,Yes
+Estonia,EST,Poland,POL,0.065047,10,Adjacent region,Yes,864.0,Yes
+Estonia,EST,Ukraine,UKR,0.063378,11,Adjacent region,Yes,1178.0,Yes
+Estonia,EST,Germany,DEU,0.062086,12,Adjacent region,Yes,1396.0,Yes
+Ethiopia,ETH,Kenya,KEN,0.117404,1,Regional,Yes,778.0,Yes
+Ethiopia,ETH,Uganda,UGA,0.11313,2,Regional,Yes,1024.0,Yes
+Ethiopia,ETH,Tanzania,TZA,0.109385,3,Regional,Yes,1592.0,Yes
+Ethiopia,ETH,Mozambique,MOZ,0.099762,4,Regional,Yes,2937.0,Yes
+Ethiopia,ETH,Zambia,ZMB,0.097669,5,Regional,Yes,2705.0,Yes
+Ethiopia,ETH,Zimbabwe,ZWE,0.096556,6,Regional,Yes,3234.0,Yes
+Ethiopia,ETH,Egypt,EGY,0.067231,7,Adjacent region,Yes,2275.0,Yes
+Ethiopia,ETH,Nigeria,NGA,0.064811,8,Adjacent region,Yes,3301.0,Yes
+Ethiopia,ETH,Angola,AGO,0.060563,9,Adjacent region,Yes,3137.0,Yes
+Ethiopia,ETH,Cameroon,CMR,0.059581,10,Adjacent region,Yes,2878.0,Yes
+Ethiopia,ETH,Algeria,DZA,0.057569,11,Adjacent region,Yes,4292.0,Yes
+Ethiopia,ETH,South Africa,ZAF,0.056339,12,Adjacent region,Yes,4379.0,Yes
+Finland,FIN,Sweden,SWE,0.097407,1,Regional,Yes,597.0,Yes
+Finland,FIN,Norway,NOR,0.094893,2,Regional,Yes,835.0,Yes
+Finland,FIN,United Kingdom,GBR,0.09348,3,Regional,Yes,1926.0,Yes
+Finland,FIN,Estonia,EST,0.093299,4,Regional,Yes,556.0,Yes
+Finland,FIN,Lithuania,LTU,0.09183,5,Regional,Yes,896.0,Yes
+Finland,FIN,Latvia,LVA,0.091172,6,Regional,Yes,780.0,Yes
+Finland,FIN,Denmark,DNK,0.090527,7,Regional,Yes,1251.0,Yes
+Finland,FIN,Ireland,IRL,0.084522,8,Regional,Yes,2282.0,Yes
+Finland,FIN,Iceland,ISL,0.075256,9,Regional,Yes,2067.0,Yes
+Finland,FIN,Poland,POL,0.063032,10,Adjacent region,Yes,1379.0,Yes
+Finland,FIN,Germany,DEU,0.062922,11,Adjacent region,Yes,1755.0,Yes
+Finland,FIN,Ukraine,UKR,0.06166,12,Adjacent region,Yes,1706.0,Yes
+France,FRA,Germany,DEU,0.110582,1,Regional,Yes,758.0,Yes
+France,FRA,Belgium,BEL,0.106111,2,Regional,Yes,557.0,Yes
+France,FRA,Switzerland,CHE,0.105094,3,Regional,Yes,472.0,Yes
+France,FRA,Netherlands,NLD,0.104136,4,Regional,Yes,772.0,Yes
+France,FRA,Austria,AUT,0.10062,5,Regional,Yes,877.0,Yes
+France,FRA,United Kingdom,GBR,0.072576,6,Adjacent region,Yes,934.0,Yes
+France,FRA,Spain,ESP,0.072284,7,Adjacent region,Yes,826.0,Yes
+France,FRA,Italy,ITA,0.071948,8,Adjacent region,Yes,929.0,Yes
+France,FRA,Poland,POL,0.065707,9,Adjacent region,Yes,1467.0,Yes
+France,FRA,Czechia,CZE,0.065437,10,Adjacent region,Yes,1088.0,Yes
+France,FRA,Portugal,PRT,0.062922,11,Adjacent region,Yes,1089.0,Yes
+France,FRA,Croatia,HRV,0.062583,12,Adjacent region,Yes,1053.0,Yes
+United Kingdom,GBR,Ireland,IRL,0.098772,1,Regional,Yes,412.0,Yes
+United Kingdom,GBR,Denmark,DNK,0.093992,2,Regional,Yes,796.0,Yes
+United Kingdom,GBR,Sweden,SWE,0.091966,3,Regional,Yes,1332.0,Yes
+United Kingdom,GBR,Norway,NOR,0.091291,4,Regional,Yes,1133.0,Yes
+United Kingdom,GBR,Lithuania,LTU,0.086176,5,Regional,Yes,1663.0,Yes
+United Kingdom,GBR,Finland,FIN,0.085304,6,Regional,Yes,1926.0,Yes
+United Kingdom,GBR,Latvia,LVA,0.084827,7,Regional,Yes,1721.0,Yes
+United Kingdom,GBR,Estonia,EST,0.081684,8,Regional,Yes,1791.0,Yes
+United Kingdom,GBR,Iceland,ISL,0.079975,9,Regional,Yes,1511.0,Yes
+United Kingdom,GBR,Germany,DEU,0.07031,10,Adjacent region,Yes,815.0,Yes
+United Kingdom,GBR,France,FRA,0.068146,11,Adjacent region,Yes,934.0,Yes
+United Kingdom,GBR,Netherlands,NLD,0.067557,12,Adjacent region,Yes,542.0,Yes
+Georgia,GEO,Turkey,TUR,0.092702,1,Regional,Yes,792.0,Yes
+Georgia,GEO,Azerbaijan,AZE,0.090739,2,Regional,Yes,374.0,Yes
+Georgia,GEO,Iraq,IRQ,0.089987,3,Regional,Yes,1002.0,Yes
+Georgia,GEO,Armenia,ARM,0.089513,4,Regional,Yes,256.0,Yes
+Georgia,GEO,Israel,ISR,0.083258,5,Regional,Yes,1402.0,Yes
+Georgia,GEO,Saudi Arabia,SAU,0.082962,6,Regional,Yes,1895.0,Yes
+Georgia,GEO,Lebanon,LBN,0.082699,7,Regional,Yes,1129.0,Yes
+Georgia,GEO,Jordan,JOR,0.081847,8,Regional,Yes,1393.0,Yes
+Georgia,GEO,Kuwait,KWT,0.079441,9,Regional,Yes,1405.0,Yes
+Georgia,GEO,United Arab Emirates,ARE,0.077559,10,Regional,Yes,2224.0,Yes
+Georgia,GEO,Qatar,QAT,0.075282,11,Regional,Yes,1967.0,Yes
+Georgia,GEO,Bahrain,BHR,0.074011,12,Regional,Yes,1892.0,Yes
+Ghana,GHA,Nigeria,NGA,0.143684,1,Regional,Yes,1120.0,Yes
+Ghana,GHA,Senegal,SEN,0.129814,2,Regional,Yes,1469.0,Yes
+Ghana,GHA,Cameroon,CMR,0.081295,3,Adjacent region,Yes,1561.0,Yes
+Ghana,GHA,Algeria,DZA,0.080453,4,Adjacent region,Yes,2285.0,Yes
+Ghana,GHA,Morocco,MAR,0.076783,5,Adjacent region,Yes,2687.0,Yes
+Ghana,GHA,Egypt,EGY,0.071514,6,Adjacent region,Yes,3977.0,Yes
+Ghana,GHA,Angola,AGO,0.07141,7,Adjacent region,Yes,3214.0,Yes
+Ghana,GHA,Tanzania,TZA,0.070442,8,Adjacent region,Yes,4389.0,Yes
+Ghana,GHA,Ethiopia,ETH,0.069678,9,Adjacent region,Yes,4403.0,Yes
+Ghana,GHA,Tunisia,TUN,0.06873,10,Adjacent region,Yes,3103.0,Yes
+Ghana,GHA,Kenya,KEN,0.068281,11,Adjacent region,Yes,4499.0,Yes
+Ghana,GHA,Uganda,UGA,0.067916,12,Adjacent region,Yes,3846.0,Yes
+Greece,GRC,Italy,ITA,0.106458,1,Regional,Yes,880.0,Yes
+Greece,GRC,North Macedonia,MKD,0.099257,2,Regional,Yes,315.0,Yes
+Greece,GRC,Bosnia and Herzegovina,BIH,0.097631,3,Regional,Yes,648.0,Yes
+Greece,GRC,Croatia,HRV,0.096498,4,Regional,Yes,870.0,Yes
+Greece,GRC,Spain,ESP,0.094953,5,Regional,Yes,2226.0,Yes
+Greece,GRC,Slovenia,SVN,0.090978,6,Regional,Yes,985.0,Yes
+Greece,GRC,Portugal,PRT,0.087749,7,Regional,Yes,2572.0,Yes
+Greece,GRC,Bulgaria,BGR,0.065896,8,Adjacent region,Yes,511.0,Yes
+Greece,GRC,Romania,ROU,0.06583,9,Adjacent region,Yes,816.0,Yes
+Greece,GRC,Ukraine,UKR,0.065266,10,Adjacent region,Yes,1367.0,Yes
+Greece,GRC,Germany,DEU,0.065029,11,Adjacent region,Yes,1676.0,Yes
+Greece,GRC,Poland,POL,0.064455,12,Adjacent region,Yes,1454.0,Yes
+Guatemala,GTM,El Salvador,SLV,0.110832,1,Regional,Yes,234.0,Yes
+Guatemala,GTM,Honduras,HND,0.109728,2,Regional,Yes,406.0,Yes
+Guatemala,GTM,Mexico,MEX,0.107505,3,Regional,Yes,1488.0,Yes
+Guatemala,GTM,Nicaragua,NIC,0.104872,4,Regional,Yes,630.0,Yes
+Guatemala,GTM,Costa Rica,CRI,0.102227,5,Regional,Yes,913.0,Yes
+Guatemala,GTM,Panama,PAN,0.098385,6,Regional,Yes,1327.0,Yes
+Guatemala,GTM,United States,USA,0.067724,7,Adjacent region,Yes,2588.0,Yes
+Guatemala,GTM,Colombia,COL,0.062541,8,Adjacent region,Yes,2371.0,Yes
+Guatemala,GTM,Brazil,BRA,0.059738,9,Adjacent region,Yes,4807.0,Yes
+Guatemala,GTM,Dominican Republic,DOM,0.059412,10,Adjacent region,Yes,2114.0,Yes
+Guatemala,GTM,Ecuador,ECU,0.059041,11,Adjacent region,Yes,2398.0,Yes
+Guatemala,GTM,Venezuela,VEN,0.057995,12,Adjacent region,Yes,2766.0,Yes
+Honduras,HND,Guatemala,GTM,0.111161,1,Regional,Yes,406.0,Yes
+Honduras,HND,El Salvador,SLV,0.109116,2,Regional,Yes,291.0,Yes
+Honduras,HND,Nicaragua,NIC,0.108115,3,Regional,Yes,275.0,Yes
+Honduras,HND,Mexico,MEX,0.103647,4,Regional,Yes,1855.0,Yes
+Honduras,HND,Costa Rica,CRI,0.103336,5,Regional,Yes,619.0,Yes
+Honduras,HND,Panama,PAN,0.098628,6,Regional,Yes,972.0,Yes
+Honduras,HND,United States,USA,0.067168,7,Adjacent region,Yes,2758.0,Yes
+Honduras,HND,Colombia,COL,0.063198,8,Adjacent region,Yes,2004.0,Yes
+Honduras,HND,Jamaica,JAM,0.059566,9,Adjacent region,Yes,1025.0,Yes
+Honduras,HND,Venezuela,VEN,0.058858,10,Adjacent region,Yes,2364.0,Yes
+Honduras,HND,Brazil,BRA,0.05885,11,Adjacent region,Yes,4447.0,Yes
+Honduras,HND,Ecuador,ECU,0.058357,12,Adjacent region,Yes,2134.0,Yes
+Croatia,HRV,Italy,ITA,0.10687,1,Regional,Yes,336.0,Yes
+Croatia,HRV,Bosnia and Herzegovina,BIH,0.097762,2,Regional,Yes,237.0,Yes
+Croatia,HRV,Slovenia,SVN,0.096884,3,Regional,Yes,118.0,Yes
+Croatia,HRV,Greece,GRC,0.094468,4,Regional,Yes,870.0,Yes
+Croatia,HRV,Spain,ESP,0.093915,5,Regional,Yes,1692.0,Yes
+Croatia,HRV,North Macedonia,MKD,0.090329,6,Regional,Yes,642.0,Yes
+Croatia,HRV,Portugal,PRT,0.085604,7,Regional,Yes,2023.0,Yes
+Croatia,HRV,Germany,DEU,0.069329,8,Adjacent region,Yes,808.0,Yes
+Croatia,HRV,Serbia,SRB,0.067086,9,Adjacent region,Yes,137.0,Yes
+Croatia,HRV,Hungary,HUN,0.06665,10,Adjacent region,Yes,402.0,Yes
+Croatia,HRV,Poland,POL,0.065588,11,Adjacent region,Yes,828.0,Yes
+Croatia,HRV,France,FRA,0.065515,12,Adjacent region,Yes,1053.0,Yes
+Hungary,HUN,Poland,POL,0.09537,1,Regional,Yes,556.0,Yes
+Hungary,HUN,Romania,ROU,0.093911,2,Regional,Yes,398.0,Yes
+Hungary,HUN,Czechia,CZE,0.0916,3,Regional,Yes,451.0,Yes
+Hungary,HUN,Ukraine,UKR,0.09158,4,Regional,Yes,919.0,Yes
+Hungary,HUN,Serbia,SRB,0.091354,5,Regional,Yes,423.0,Yes
+Hungary,HUN,Slovakia,SVK,0.090903,6,Regional,Yes,189.0,Yes
+Hungary,HUN,Bulgaria,BGR,0.08879,7,Regional,Yes,593.0,Yes
+Hungary,HUN,Belarus,BLR,0.086782,8,Regional,Yes,878.0,Yes
+Hungary,HUN,Moldova,MDA,0.086579,9,Regional,Yes,682.0,Yes
+Hungary,HUN,Italy,ITA,0.062617,10,Adjacent region,Yes,730.0,Yes
+Hungary,HUN,Germany,DEU,0.061454,11,Adjacent region,Yes,916.0,Yes
+Hungary,HUN,Croatia,HRV,0.05906,12,Adjacent region,Yes,402.0,Yes
+Indonesia,IDN,Malaysia,MYS,0.112455,1,Regional,Yes,1179.0,Yes
+Indonesia,IDN,Philippines,PHL,0.110821,2,Regional,Yes,2014.0,Yes
+Indonesia,IDN,Vietnam,VNM,0.105147,3,Regional,Yes,2708.0,Yes
+Indonesia,IDN,Thailand,THA,0.103298,4,Regional,Yes,3131.0,Yes
+Indonesia,IDN,Singapore,SGP,0.099337,5,Regional,Yes,1934.0,Yes
+Indonesia,IDN,Cambodia,KHM,0.098254,6,Regional,Yes,2598.0,Yes
+Indonesia,IDN,China,CHN,0.068374,7,Adjacent region,Yes,4717.0,Yes
+Indonesia,IDN,India,IND,0.067767,8,Adjacent region,Yes,5459.0,Yes
+Indonesia,IDN,Bangladesh,BGD,0.060578,9,Adjacent region,Yes,4579.0,Yes
+Indonesia,IDN,Taiwan,TWN,0.058534,10,Adjacent region,Yes,3171.0,Yes
+Indonesia,IDN,Japan,JPN,0.058187,11,Adjacent region,Yes,4930.0,Yes
+Indonesia,IDN,Pakistan,PAK,0.057248,12,Adjacent region,Yes,6591.0,Yes
+India,IND,Pakistan,PAK,0.122912,1,Regional,Yes,1316.0,Yes
+India,IND,Bangladesh,BGD,0.120068,2,Regional,Yes,1411.0,Yes
+India,IND,Nepal,NPL,0.117867,3,Regional,Yes,1138.0,Yes
+India,IND,Sri Lanka,LKA,0.11396,4,Regional,Yes,1509.0,Yes
+India,IND,China,CHN,0.078645,5,Adjacent region,Yes,3209.0,Yes
+India,IND,Thailand,THA,0.068652,6,Adjacent region,Yes,2499.0,Yes
+India,IND,Vietnam,VNM,0.066208,7,Adjacent region,Yes,3282.0,Yes
+India,IND,Indonesia,IDN,0.063047,8,Adjacent region,Yes,5459.0,Yes
+India,IND,United Arab Emirates,ARE,0.062821,9,Adjacent region,Yes,2410.0,Yes
+India,IND,Saudi Arabia,SAU,0.06241,10,Adjacent region,Yes,3326.0,Yes
+India,IND,Philippines,PHL,0.06182,11,Adjacent region,Yes,4846.0,Yes
+India,IND,Kazakhstan,KAZ,0.06159,12,Adjacent region,Yes,3217.0,Yes
+Ireland,IRL,United Kingdom,GBR,0.110275,1,Regional,Yes,412.0,Yes
+Ireland,IRL,Denmark,DNK,0.093324,2,Regional,Yes,1205.0,Yes
+Ireland,IRL,Norway,NOR,0.091378,3,Regional,Yes,1460.0,Yes
+Ireland,IRL,Sweden,SWE,0.090847,4,Regional,Yes,1685.0,Yes
+Ireland,IRL,Finland,FIN,0.085191,5,Regional,Yes,2282.0,Yes
+Ireland,IRL,Lithuania,LTU,0.083783,6,Regional,Yes,2074.0,Yes
+Ireland,IRL,Latvia,LVA,0.083316,7,Regional,Yes,2129.0,Yes
+Ireland,IRL,Iceland,ISL,0.080915,8,Regional,Yes,1448.0,Yes
+Ireland,IRL,Estonia,EST,0.080275,9,Regional,Yes,2189.0,Yes
+Ireland,IRL,France,FRA,0.068646,10,Adjacent region,Yes,1060.0,Yes
+Ireland,IRL,Germany,DEU,0.066838,11,Adjacent region,Yes,1182.0,Yes
+Ireland,IRL,Netherlands,NLD,0.065212,12,Adjacent region,Yes,926.0,Yes
+Iraq,IRQ,Turkey,TUR,0.090349,1,Regional,Yes,1048.0,Yes
+Iraq,IRQ,Saudi Arabia,SAU,0.086647,2,Regional,Yes,895.0,Yes
+Iraq,IRQ,Kuwait,KWT,0.085631,3,Regional,Yes,423.0,Yes
+Iraq,IRQ,Azerbaijan,AZE,0.084694,4,Regional,Yes,890.0,Yes
+Iraq,IRQ,Israel,ISR,0.084489,5,Regional,Yes,885.0,Yes
+Iraq,IRQ,Jordan,JOR,0.083897,6,Regional,Yes,786.0,Yes
+Iraq,IRQ,Lebanon,LBN,0.083597,7,Regional,Yes,763.0,Yes
+Iraq,IRQ,Armenia,ARM,0.082538,8,Regional,Yes,783.0,Yes
+Iraq,IRQ,Georgia,GEO,0.081724,9,Regional,Yes,1002.0,Yes
+Iraq,IRQ,United Arab Emirates,ARE,0.079805,10,Regional,Yes,1397.0,Yes
+Iraq,IRQ,Qatar,QAT,0.079173,11,Regional,Yes,1090.0,Yes
+Iraq,IRQ,Bahrain,BHR,0.077456,12,Regional,Yes,1003.0,Yes
+Iceland,ISL,United Kingdom,GBR,0.102223,1,Regional,Yes,1511.0,Yes
+Iceland,ISL,Norway,NOR,0.094842,2,Regional,Yes,1416.0,Yes
+Iceland,ISL,Sweden,SWE,0.0936,3,Regional,Yes,1651.0,Yes
+Iceland,ISL,Ireland,IRL,0.093042,4,Regional,Yes,1448.0,Yes
+Iceland,ISL,Denmark,DNK,0.09176,5,Regional,Yes,1807.0,Yes
+Iceland,ISL,Finland,FIN,0.089949,6,Regional,Yes,2067.0,Yes
+Iceland,ISL,Lithuania,LTU,0.086552,7,Regional,Yes,2450.0,Yes
+Iceland,ISL,Latvia,LVA,0.0846,8,Regional,Yes,2425.0,Yes
+Iceland,ISL,Estonia,EST,0.083842,9,Regional,Yes,2338.0,Yes
+Iceland,ISL,Germany,DEU,0.061488,10,Adjacent region,Yes,2194.0,Yes
+Iceland,ISL,France,FRA,0.060294,11,Adjacent region,Yes,2436.0,Yes
+Iceland,ISL,Netherlands,NLD,0.057808,12,Adjacent region,Yes,1929.0,Yes
+Israel,ISR,Turkey,TUR,0.092684,1,Regional,Yes,834.0,Yes
+Israel,ISR,Jordan,JOR,0.092152,2,Regional,Yes,131.0,Yes
+Israel,ISR,Iraq,IRQ,0.089761,3,Regional,Yes,885.0,Yes
+Israel,ISR,Lebanon,LBN,0.088438,4,Regional,Yes,279.0,Yes
+Israel,ISR,Saudi Arabia,SAU,0.086287,5,Regional,Yes,1236.0,Yes
+Israel,ISR,Azerbaijan,AZE,0.081565,6,Regional,Yes,1519.0,Yes
+Israel,ISR,Kuwait,KWT,0.080912,7,Regional,Yes,1077.0,Yes
+Israel,ISR,Armenia,ARM,0.080549,8,Regional,Yes,1321.0,Yes
+Israel,ISR,Georgia,GEO,0.078994,9,Regional,Yes,1402.0,Yes
+Israel,ISR,United Arab Emirates,ARE,0.078325,10,Regional,Yes,2066.0,Yes
+Israel,ISR,Qatar,QAT,0.075393,11,Regional,Yes,1742.0,Yes
+Israel,ISR,Oman,OMN,0.07494,12,Regional,Yes,2500.0,Yes
+Italy,ITA,Croatia,HRV,0.098894,1,Regional,Yes,336.0,Yes
+Italy,ITA,Spain,ESP,0.097652,2,Regional,Yes,1436.0,Yes
+Italy,ITA,Bosnia and Herzegovina,BIH,0.09695,3,Regional,Yes,437.0,Yes
+Italy,ITA,Greece,GRC,0.095773,4,Regional,Yes,880.0,Yes
+Italy,ITA,Slovenia,SVN,0.095009,5,Regional,Yes,398.0,Yes
+Italy,ITA,North Macedonia,MKD,0.091219,6,Regional,Yes,761.0,Yes
+Italy,ITA,Portugal,PRT,0.088672,7,Regional,Yes,1778.0,Yes
+Italy,ITA,Germany,DEU,0.069537,8,Adjacent region,Yes,953.0,Yes
+Italy,ITA,France,FRA,0.068472,9,Adjacent region,Yes,929.0,Yes
+Italy,ITA,Serbia,SRB,0.067954,10,Adjacent region,Yes,324.0,Yes
+Italy,ITA,Poland,POL,0.064974,11,Adjacent region,Yes,1152.0,Yes
+Italy,ITA,Switzerland,CHE,0.064894,12,Adjacent region,Yes,599.0,Yes
+Jamaica,JAM,Dominican Republic,DOM,0.130197,1,Regional,Yes,725.0,Yes
+Jamaica,JAM,Colombia,COL,0.082029,2,Adjacent region,Yes,1694.0,Yes
+Jamaica,JAM,Honduras,HND,0.081824,3,Adjacent region,Yes,1025.0,Yes
+Jamaica,JAM,United States,USA,0.081543,4,Adjacent region,Yes,2899.0,Yes
+Jamaica,JAM,Venezuela,VEN,0.080683,5,Adjacent region,Yes,1687.0,Yes
+Jamaica,JAM,Nicaragua,NIC,0.080637,6,Adjacent region,Yes,993.0,Yes
+Jamaica,JAM,Mexico,MEX,0.080099,7,Adjacent region,Yes,2600.0,Yes
+Jamaica,JAM,Guatemala,GTM,0.07911,8,Adjacent region,Yes,1390.0,Yes
+Jamaica,JAM,Panama,PAN,0.077632,9,Adjacent region,Yes,1063.0,Yes
+Jamaica,JAM,El Salvador,SLV,0.077489,10,Adjacent region,Yes,1315.0,Yes
+Jamaica,JAM,Costa Rica,CRI,0.075016,11,Adjacent region,Yes,1154.0,Yes
+Jamaica,JAM,Brazil,BRA,0.073741,12,Adjacent region,Yes,3996.0,Yes
+Jordan,JOR,Israel,ISR,0.092771,1,Regional,Yes,131.0,Yes
+Jordan,JOR,Turkey,TUR,0.091746,2,Regional,Yes,894.0,Yes
+Jordan,JOR,Iraq,IRQ,0.089499,3,Regional,Yes,786.0,Yes
+Jordan,JOR,Lebanon,LBN,0.088765,4,Regional,Yes,315.0,Yes
+Jordan,JOR,Saudi Arabia,SAU,0.086188,5,Regional,Yes,1106.0,Yes
+Jordan,JOR,Kuwait,KWT,0.081947,6,Regional,Yes,951.0,Yes
+Jordan,JOR,Azerbaijan,AZE,0.081716,7,Regional,Yes,1478.0,Yes
+Jordan,JOR,Armenia,ARM,0.07979,8,Regional,Yes,1289.0,Yes
+Jordan,JOR,Georgia,GEO,0.079444,9,Regional,Yes,1393.0,Yes
+Jordan,JOR,United Arab Emirates,ARE,0.077366,10,Regional,Yes,1935.0,Yes
+Jordan,JOR,Qatar,QAT,0.076606,11,Regional,Yes,1612.0,Yes
+Jordan,JOR,Bahrain,BHR,0.074162,12,Regional,Yes,1525.0,Yes
+Japan,JPN,South Korea,KOR,0.128227,1,Regional,Yes,945.0,Yes
+Japan,JPN,China,CHN,0.125845,2,Regional,Yes,2975.0,Yes
+Japan,JPN,Taiwan,TWN,0.114784,3,Regional,Yes,2145.0,Yes
+Japan,JPN,Mongolia,MNG,0.09939,4,Regional,Yes,2958.0,Yes
+Japan,JPN,Philippines,PHL,0.072145,5,Adjacent region,Yes,3017.0,Yes
+Japan,JPN,India,IND,0.070997,6,Adjacent region,Yes,6147.0,Yes
+Japan,JPN,Vietnam,VNM,0.068705,7,Adjacent region,Yes,3707.0,Yes
+Japan,JPN,Indonesia,IDN,0.068393,8,Adjacent region,Yes,4930.0,Yes
+Japan,JPN,Bangladesh,BGD,0.064703,9,Adjacent region,Yes,4760.0,Yes
+Japan,JPN,Thailand,THA,0.064011,10,Adjacent region,Yes,4429.0,Yes
+Japan,JPN,Pakistan,PAK,0.063247,11,Adjacent region,Yes,6249.0,Yes
+Japan,JPN,Malaysia,MYS,0.059553,12,Adjacent region,Yes,4555.0,Yes
+Kazakhstan,KAZ,Pakistan,PAK,0.097012,1,Adjacent region,Yes,2009.0,Yes
+Kazakhstan,KAZ,India,IND,0.095702,2,Adjacent region,Yes,3217.0,Yes
+Kazakhstan,KAZ,China,CHN,0.095062,3,Adjacent region,Yes,3362.0,Yes
+Kazakhstan,KAZ,Bangladesh,BGD,0.08692,4,Adjacent region,Yes,3297.0,Yes
+Kazakhstan,KAZ,Turkey,TUR,0.08538,5,Adjacent region,Yes,2818.0,Yes
+Kazakhstan,KAZ,Iraq,IRQ,0.080278,6,Adjacent region,Yes,2607.0,Yes
+Kazakhstan,KAZ,Azerbaijan,AZE,0.079522,7,Adjacent region,Yes,1826.0,Yes
+Kazakhstan,KAZ,Nepal,NPL,0.079387,8,Adjacent region,Yes,2617.0,Yes
+Kazakhstan,KAZ,Saudi Arabia,SAU,0.076428,9,Adjacent region,Yes,3255.0,Yes
+Kazakhstan,KAZ,Georgia,GEO,0.07582,10,Adjacent region,Yes,2028.0,Yes
+Kazakhstan,KAZ,Indonesia,IDN,0.074482,11,Adjacent region,Yes,7759.0,Yes
+Kazakhstan,KAZ,Thailand,THA,0.074007,12,Adjacent region,Yes,4696.0,Yes
+Kenya,KEN,Ethiopia,ETH,0.118064,1,Regional,Yes,778.0,Yes
+Kenya,KEN,Uganda,UGA,0.114837,2,Regional,Yes,667.0,Yes
+Kenya,KEN,Tanzania,TZA,0.11478,3,Regional,Yes,847.0,Yes
+Kenya,KEN,Mozambique,MOZ,0.101241,4,Regional,Yes,2166.0,Yes
+Kenya,KEN,Zambia,ZMB,0.100411,5,Regional,Yes,1985.0,Yes
+Kenya,KEN,Zimbabwe,ZWE,0.095382,6,Regional,Yes,2493.0,Yes
+Kenya,KEN,Nigeria,NGA,0.065354,7,Adjacent region,Yes,3464.0,Yes
+Kenya,KEN,Egypt,EGY,0.062192,8,Adjacent region,Yes,3015.0,Yes
+Kenya,KEN,Angola,AGO,0.059836,9,Adjacent region,Yes,2624.0,Yes
+Kenya,KEN,South Africa,ZAF,0.057746,10,Adjacent region,Yes,3653.0,Yes
+Kenya,KEN,Cameroon,CMR,0.056432,11,Adjacent region,Yes,2938.0,Yes
+Kenya,KEN,Algeria,DZA,0.053725,12,Adjacent region,Yes,4781.0,Yes
+Cambodia,KHM,Vietnam,VNM,0.111797,1,Regional,Yes,466.0,Yes
+Cambodia,KHM,Thailand,THA,0.109924,2,Regional,Yes,583.0,Yes
+Cambodia,KHM,Philippines,PHL,0.102426,3,Regional,Yes,1842.0,Yes
+Cambodia,KHM,Indonesia,IDN,0.101668,4,Regional,Yes,2598.0,Yes
+Cambodia,KHM,Malaysia,MYS,0.099943,5,Regional,Yes,1430.0,Yes
+Cambodia,KHM,Singapore,SGP,0.095343,6,Regional,Yes,1300.0,Yes
+Cambodia,KHM,China,CHN,0.071507,7,Adjacent region,Yes,2446.0,Yes
+Cambodia,KHM,India,IND,0.066916,8,Adjacent region,Yes,3080.0,Yes
+Cambodia,KHM,Bangladesh,BGD,0.066385,9,Adjacent region,Yes,1997.0,Yes
+Cambodia,KHM,Pakistan,PAK,0.058962,10,Adjacent region,Yes,4060.0,Yes
+Cambodia,KHM,Taiwan,TWN,0.058657,11,Adjacent region,Yes,2051.0,Yes
+Cambodia,KHM,Sri Lanka,LKA,0.056472,12,Adjacent region,Yes,2710.0,Yes
+South Korea,KOR,China,CHN,0.127578,1,Regional,Yes,2031.0,Yes
+South Korea,KOR,Japan,JPN,0.125805,2,Regional,Yes,945.0,Yes
+South Korea,KOR,Taiwan,TWN,0.11204,3,Regional,Yes,1625.0,Yes
+South Korea,KOR,Mongolia,MNG,0.102061,4,Regional,Yes,2114.0,Yes
+South Korea,KOR,India,IND,0.070923,5,Adjacent region,Yes,5216.0,Yes
+South Korea,KOR,Philippines,PHL,0.07086,6,Adjacent region,Yes,2724.0,Yes
+South Korea,KOR,Bangladesh,BGD,0.068667,7,Adjacent region,Yes,3842.0,Yes
+South Korea,KOR,Vietnam,VNM,0.067804,8,Adjacent region,Yes,3018.0,Yes
+South Korea,KOR,Indonesia,IDN,0.066047,9,Adjacent region,Yes,4735.0,Yes
+South Korea,KOR,Thailand,THA,0.064863,10,Adjacent region,Yes,3654.0,Yes
+South Korea,KOR,Pakistan,PAK,0.063744,11,Adjacent region,Yes,5308.0,Yes
+South Korea,KOR,Malaysia,MYS,0.059608,12,Adjacent region,Yes,4132.0,Yes
+Kuwait,KWT,Iraq,IRQ,0.093767,1,Regional,Yes,423.0,Yes
+Kuwait,KWT,Saudi Arabia,SAU,0.091486,2,Regional,Yes,506.0,Yes
+Kuwait,KWT,Turkey,TUR,0.08574,3,Regional,Yes,1444.0,Yes
+Kuwait,KWT,Israel,ISR,0.082638,4,Regional,Yes,1077.0,Yes
+Kuwait,KWT,United Arab Emirates,ARE,0.08235,5,Regional,Yes,1022.0,Yes
+Kuwait,KWT,Jordan,JOR,0.082274,6,Regional,Yes,951.0,Yes
+Kuwait,KWT,Azerbaijan,AZE,0.081886,7,Regional,Yes,1233.0,Yes
+Kuwait,KWT,Qatar,QAT,0.081147,8,Regional,Yes,701.0,Yes
+Kuwait,KWT,Bahrain,BHR,0.080826,9,Regional,Yes,612.0,Yes
+Kuwait,KWT,Lebanon,LBN,0.080145,10,Regional,Yes,1054.0,Yes
+Kuwait,KWT,Armenia,ARM,0.079404,11,Regional,Yes,1170.0,Yes
+Kuwait,KWT,Oman,OMN,0.078337,12,Regional,Yes,1473.0,Yes
+Lebanon,LBN,Turkey,TUR,0.0933,1,Regional,Yes,579.0,Yes
+Lebanon,LBN,Iraq,IRQ,0.0907,2,Regional,Yes,763.0,Yes
+Lebanon,LBN,Jordan,JOR,0.090388,3,Regional,Yes,315.0,Yes
+Lebanon,LBN,Israel,ISR,0.089129,4,Regional,Yes,279.0,Yes
+Lebanon,LBN,Saudi Arabia,SAU,0.084842,5,Regional,Yes,1323.0,Yes
+Lebanon,LBN,Azerbaijan,AZE,0.081725,6,Regional,Yes,1270.0,Yes
+Lebanon,LBN,Georgia,GEO,0.081672,7,Regional,Yes,1129.0,Yes
+Lebanon,LBN,Armenia,ARM,0.081433,8,Regional,Yes,1064.0,Yes
+Lebanon,LBN,Kuwait,KWT,0.079846,9,Regional,Yes,1054.0,Yes
+Lebanon,LBN,United Arab Emirates,ARE,0.076799,10,Regional,Yes,2074.0,Yes
+Lebanon,LBN,Qatar,QAT,0.075113,11,Regional,Yes,1751.0,Yes
+Lebanon,LBN,Bahrain,BHR,0.075053,12,Regional,Yes,1662.0,Yes
+Sri Lanka,LKA,India,IND,0.13134,1,Regional,Yes,1509.0,Yes
+Sri Lanka,LKA,Bangladesh,BGD,0.118516,2,Regional,Yes,2120.0,Yes
+Sri Lanka,LKA,Pakistan,PAK,0.113368,3,Regional,Yes,2804.0,Yes
+Sri Lanka,LKA,Nepal,NPL,0.109079,4,Regional,Yes,2356.0,Yes
+Sri Lanka,LKA,China,CHN,0.075135,5,Adjacent region,Yes,3963.0,Yes
+Sri Lanka,LKA,Thailand,THA,0.071236,6,Adjacent region,Yes,2255.0,Yes
+Sri Lanka,LKA,Vietnam,VNM,0.067204,7,Adjacent region,Yes,3091.0,Yes
+Sri Lanka,LKA,Indonesia,IDN,0.066702,8,Adjacent region,Yes,4529.0,Yes
+Sri Lanka,LKA,Philippines,PHL,0.064325,9,Adjacent region,Yes,4534.0,Yes
+Sri Lanka,LKA,Malaysia,MYS,0.061584,10,Adjacent region,Yes,3525.0,Yes
+Sri Lanka,LKA,Cambodia,KHM,0.061429,11,Adjacent region,Yes,2710.0,Yes
+Sri Lanka,LKA,Singapore,SGP,0.060082,12,Adjacent region,Yes,2604.0,Yes
+Lithuania,LTU,Latvia,LVA,0.096398,1,Regional,Yes,127.0,Yes
+Lithuania,LTU,Sweden,SWE,0.093683,2,Regional,Yes,841.0,Yes
+Lithuania,LTU,Estonia,EST,0.092873,3,Regional,Yes,354.0,Yes
+Lithuania,LTU,United Kingdom,GBR,0.092414,4,Regional,Yes,1663.0,Yes
+Lithuania,LTU,Denmark,DNK,0.090903,5,Regional,Yes,869.0,Yes
+Lithuania,LTU,Finland,FIN,0.090557,6,Regional,Yes,896.0,Yes
+Lithuania,LTU,Norway,NOR,0.090389,7,Regional,Yes,1039.0,Yes
+Lithuania,LTU,Ireland,IRL,0.084432,8,Regional,Yes,2074.0,Yes
+Lithuania,LTU,Iceland,ISL,0.070515,9,Regional,Yes,2450.0,Yes
+Lithuania,LTU,Poland,POL,0.068852,10,Adjacent region,Yes,516.0,Yes
+Lithuania,LTU,Belarus,BLR,0.06476,11,Adjacent region,Yes,422.0,Yes
+Lithuania,LTU,Germany,DEU,0.064224,12,Adjacent region,Yes,1134.0,Yes
+Latvia,LVA,Lithuania,LTU,0.098024,1,Regional,Yes,127.0,Yes
+Latvia,LVA,Sweden,SWE,0.093581,2,Regional,Yes,791.0,Yes
+Latvia,LVA,United Kingdom,GBR,0.093263,3,Regional,Yes,1721.0,Yes
+Latvia,LVA,Estonia,EST,0.092959,4,Regional,Yes,230.0,Yes
+Latvia,LVA,Finland,FIN,0.091583,5,Regional,Yes,780.0,Yes
+Latvia,LVA,Denmark,DNK,0.090469,6,Regional,Yes,925.0,Yes
+Latvia,LVA,Norway,NOR,0.089062,7,Regional,Yes,1009.0,Yes
+Latvia,LVA,Ireland,IRL,0.083234,8,Regional,Yes,2129.0,Yes
+Latvia,LVA,Iceland,ISL,0.072941,9,Regional,Yes,2425.0,Yes
+Latvia,LVA,Poland,POL,0.067123,10,Adjacent region,Yes,643.0,Yes
+Latvia,LVA,Germany,DEU,0.064731,11,Adjacent region,Yes,1236.0,Yes
+Latvia,LVA,Belarus,BLR,0.06303,12,Adjacent region,Yes,484.0,Yes
+Morocco,MAR,Algeria,DZA,0.13785,1,Regional,Yes,889.0,Yes
+Morocco,MAR,Tunisia,TUN,0.1249,2,Regional,Yes,1323.0,Yes
+Morocco,MAR,Egypt,EGY,0.12138,3,Regional,Yes,3418.0,Yes
+Morocco,MAR,Nigeria,NGA,0.081561,4,Adjacent region,Yes,2788.0,Yes
+Morocco,MAR,Ghana,GHA,0.073269,5,Adjacent region,Yes,2687.0,Yes
+Morocco,MAR,Senegal,SEN,0.072933,6,Adjacent region,Yes,2201.0,Yes
+Morocco,MAR,Cameroon,CMR,0.067839,7,Adjacent region,Yes,3388.0,Yes
+Morocco,MAR,Spain,ESP,0.06746,8,Cross-regional,No,894.0,Yes
+Morocco,MAR,Ethiopia,ETH,0.065934,9,Adjacent region,Yes,5174.0,Yes
+Morocco,MAR,Kenya,KEN,0.063261,10,Adjacent region,Yes,5670.0,Yes
+Morocco,MAR,Uganda,UGA,0.062552,11,Adjacent region,Yes,5187.0,Yes
+Morocco,MAR,France,FRA,0.061061,12,Cross-regional,No,1668.0,Yes
+Moldova,MDA,Ukraine,UKR,0.098101,1,Regional,Yes,315.0,Yes
+Moldova,MDA,Romania,ROU,0.097698,2,Regional,Yes,326.0,Yes
+Moldova,MDA,Poland,POL,0.094692,3,Regional,Yes,854.0,Yes
+Moldova,MDA,Hungary,HUN,0.091391,4,Regional,Yes,682.0,Yes
+Moldova,MDA,Bulgaria,BGR,0.091026,5,Regional,Yes,545.0,Yes
+Moldova,MDA,Belarus,BLR,0.089764,6,Regional,Yes,671.0,Yes
+Moldova,MDA,Czechia,CZE,0.089001,7,Regional,Yes,1041.0,Yes
+Moldova,MDA,Slovakia,SVK,0.087622,8,Regional,Yes,732.0,Yes
+Moldova,MDA,Serbia,SRB,0.086939,9,Regional,Yes,1028.0,Yes
+Moldova,MDA,Italy,ITA,0.059715,10,Adjacent region,Yes,1352.0,Yes
+Moldova,MDA,Germany,DEU,0.058192,11,Adjacent region,Yes,1520.0,Yes
+Moldova,MDA,Greece,GRC,0.055859,12,Adjacent region,Yes,1055.0,Yes
+Mexico,MEX,Guatemala,GTM,0.111261,1,Regional,Yes,1488.0,Yes
+Mexico,MEX,Honduras,HND,0.106077,2,Regional,Yes,1855.0,Yes
+Mexico,MEX,El Salvador,SLV,0.105467,3,Regional,Yes,1714.0,Yes
+Mexico,MEX,Nicaragua,NIC,0.102317,4,Regional,Yes,2111.0,Yes
+Mexico,MEX,Costa Rica,CRI,0.101037,5,Regional,Yes,2398.0,Yes
+Mexico,MEX,Panama,PAN,0.095065,6,Regional,Yes,2813.0,Yes
+Mexico,MEX,United States,USA,0.079409,7,Adjacent region,Yes,1735.0,Yes
+Mexico,MEX,Colombia,COL,0.062401,8,Adjacent region,Yes,3855.0,Yes
+Mexico,MEX,Brazil,BRA,0.061201,9,Adjacent region,Yes,6294.0,Yes
+Mexico,MEX,Canada,CAN,0.060123,10,Adjacent region,Yes,4150.0,Yes
+Mexico,MEX,Dominican Republic,DOM,0.058567,11,Adjacent region,Yes,3277.0,Yes
+Mexico,MEX,Venezuela,VEN,0.057075,12,Adjacent region,Yes,4186.0,Yes
+North Macedonia,MKD,Italy,ITA,0.104849,1,Regional,Yes,761.0,Yes
+North Macedonia,MKD,Greece,GRC,0.103459,2,Regional,Yes,315.0,Yes
+North Macedonia,MKD,Bosnia and Herzegovina,BIH,0.097632,3,Regional,Yes,405.0,Yes
+North Macedonia,MKD,Croatia,HRV,0.094756,4,Regional,Yes,642.0,Yes
+North Macedonia,MKD,Spain,ESP,0.093489,5,Regional,Yes,2186.0,Yes
+North Macedonia,MKD,Slovenia,SVN,0.090794,6,Regional,Yes,746.0,Yes
+North Macedonia,MKD,Portugal,PRT,0.085494,7,Regional,Yes,2531.0,Yes
+North Macedonia,MKD,Bulgaria,BGR,0.067965,8,Adjacent region,Yes,278.0,Yes
+North Macedonia,MKD,Romania,ROU,0.067093,9,Adjacent region,Yes,522.0,Yes
+North Macedonia,MKD,Ukraine,UKR,0.065091,10,Adjacent region,Yes,1114.0,Yes
+North Macedonia,MKD,Hungary,HUN,0.064855,11,Adjacent region,Yes,596.0,Yes
+North Macedonia,MKD,Poland,POL,0.064523,12,Adjacent region,Yes,1141.0,Yes
+Mongolia,MNG,China,CHN,0.133304,1,Regional,Yes,1223.0,Yes
+Mongolia,MNG,South Korea,KOR,0.111594,2,Regional,Yes,2114.0,Yes
+Mongolia,MNG,Japan,JPN,0.111138,3,Regional,Yes,2958.0,Yes
+Mongolia,MNG,Taiwan,TWN,0.104696,4,Regional,Yes,2885.0,Yes
+Mongolia,MNG,India,IND,0.077025,5,Adjacent region,Yes,3856.0,Yes
+Mongolia,MNG,Bangladesh,BGD,0.072744,6,Adjacent region,Yes,2791.0,Yes
+Mongolia,MNG,Pakistan,PAK,0.068506,7,Adjacent region,Yes,3505.0,Yes
+Mongolia,MNG,Vietnam,VNM,0.066542,8,Adjacent region,Yes,3328.0,Yes
+Mongolia,MNG,Thailand,THA,0.064773,9,Adjacent region,Yes,3478.0,Yes
+Mongolia,MNG,Philippines,PHL,0.064441,10,Adjacent region,Yes,4002.0,Yes
+Mongolia,MNG,Nepal,NPL,0.063724,11,Adjacent region,Yes,2719.0,Yes
+Mongolia,MNG,Indonesia,IDN,0.061513,12,Adjacent region,Yes,5862.0,Yes
+Mozambique,MOZ,Zambia,ZMB,0.112288,1,Regional,Yes,644.0,Yes
+Mozambique,MOZ,Zimbabwe,ZWE,0.111475,2,Regional,Yes,560.0,Yes
+Mozambique,MOZ,Tanzania,TZA,0.108245,3,Regional,Yes,1362.0,Yes
+Mozambique,MOZ,Kenya,KEN,0.102563,4,Regional,Yes,2166.0,Yes
+Mozambique,MOZ,Ethiopia,ETH,0.102479,5,Regional,Yes,2937.0,Yes
+Mozambique,MOZ,Uganda,UGA,0.100733,6,Regional,Yes,2166.0,Yes
+Mozambique,MOZ,South Africa,ZAF,0.070257,7,Adjacent region,Yes,1637.0,Yes
+Mozambique,MOZ,Angola,AGO,0.062967,8,Adjacent region,Yes,1880.0,Yes
+Mozambique,MOZ,Nigeria,NGA,0.059627,9,Adjacent region,Yes,4318.0,Yes
+Mozambique,MOZ,Botswana,BWA,0.059502,10,Adjacent region,Yes,1221.0,Yes
+Mozambique,MOZ,Egypt,EGY,0.055578,11,Adjacent region,Yes,5060.0,Yes
+Mozambique,MOZ,Cameroon,CMR,0.054286,12,Adjacent region,Yes,3693.0,Yes
+Malaysia,MYS,Indonesia,IDN,0.112922,1,Regional,Yes,1179.0,Yes
+Malaysia,MYS,Philippines,PHL,0.106808,2,Regional,Yes,1567.0,Yes
+Malaysia,MYS,Vietnam,VNM,0.105714,3,Regional,Yes,1603.0,Yes
+Malaysia,MYS,Thailand,THA,0.102704,4,Regional,Yes,1952.0,Yes
+Malaysia,MYS,Singapore,SGP,0.102535,5,Regional,Yes,975.0,Yes
+Malaysia,MYS,Cambodia,KHM,0.101724,6,Regional,Yes,1430.0,Yes
+Malaysia,MYS,China,CHN,0.067439,7,Adjacent region,Yes,3696.0,Yes
+Malaysia,MYS,India,IND,0.065835,8,Adjacent region,Yes,4316.0,Yes
+Malaysia,MYS,Bangladesh,BGD,0.062563,9,Adjacent region,Yes,3400.0,Yes
+Malaysia,MYS,Taiwan,TWN,0.058298,10,Adjacent region,Yes,2508.0,Yes
+Malaysia,MYS,Pakistan,PAK,0.05693,11,Adjacent region,Yes,5418.0,Yes
+Malaysia,MYS,Japan,JPN,0.056528,12,Adjacent region,Yes,4555.0,Yes
+Namibia,NAM,South Africa,ZAF,0.132826,1,Regional,Yes,1048.0,Yes
+Namibia,NAM,Botswana,BWA,0.122743,2,Regional,Yes,722.0,Yes
+Namibia,NAM,Angola,AGO,0.085598,3,Adjacent region,Yes,1068.0,Yes
+Namibia,NAM,Zimbabwe,ZWE,0.077853,4,Adjacent region,Yes,1367.0,Yes
+Namibia,NAM,Zambia,ZMB,0.077452,5,Adjacent region,Yes,1575.0,Yes
+Namibia,NAM,Mozambique,MOZ,0.077419,6,Adjacent region,Yes,1924.0,Yes
+Namibia,NAM,Nigeria,NGA,0.074749,7,Adjacent region,Yes,3691.0,Yes
+Namibia,NAM,Tanzania,TZA,0.072879,8,Adjacent region,Yes,2628.0,Yes
+Namibia,NAM,Kenya,KEN,0.070669,9,Adjacent region,Yes,3425.0,Yes
+Namibia,NAM,Uganda,UGA,0.069782,10,Adjacent region,Yes,3031.0,Yes
+Namibia,NAM,Ethiopia,ETH,0.06952,11,Adjacent region,Yes,4046.0,Yes
+Namibia,NAM,Cameroon,CMR,0.06851,12,Adjacent region,Yes,3161.0,Yes
+Nigeria,NGA,Ghana,GHA,0.133329,1,Regional,Yes,1120.0,Yes
+Nigeria,NGA,Senegal,SEN,0.119558,2,Regional,Yes,2433.0,Yes
+Nigeria,NGA,Cameroon,CMR,0.090331,3,Adjacent region,Yes,626.0,Yes
+Nigeria,NGA,Algeria,DZA,0.079952,4,Adjacent region,Yes,2069.0,Yes
+Nigeria,NGA,Egypt,EGY,0.077582,5,Adjacent region,Yes,2982.0,Yes
+Nigeria,NGA,Ethiopia,ETH,0.074581,6,Adjacent region,Yes,3301.0,Yes
+Nigeria,NGA,Angola,AGO,0.072733,7,Adjacent region,Yes,2758.0,Yes
+Nigeria,NGA,Morocco,MAR,0.072464,8,Adjacent region,Yes,2788.0,Yes
+Nigeria,NGA,Uganda,UGA,0.071857,9,Adjacent region,Yes,2836.0,Yes
+Nigeria,NGA,Kenya,KEN,0.070153,10,Adjacent region,Yes,3464.0,Yes
+Nigeria,NGA,Tanzania,TZA,0.070115,11,Adjacent region,Yes,3480.0,Yes
+Nigeria,NGA,Tunisia,TUN,0.067345,12,Adjacent region,Yes,2671.0,Yes
+Nicaragua,NIC,Honduras,HND,0.108682,1,Regional,Yes,275.0,Yes
+Nicaragua,NIC,Guatemala,GTM,0.106571,2,Regional,Yes,630.0,Yes
+Nicaragua,NIC,El Salvador,SLV,0.105428,3,Regional,Yes,434.0,Yes
+Nicaragua,NIC,Costa Rica,CRI,0.104735,4,Regional,Yes,351.0,Yes
+Nicaragua,NIC,Panama,PAN,0.101225,5,Regional,Yes,704.0,Yes
+Nicaragua,NIC,Mexico,MEX,0.100686,6,Regional,Yes,2111.0,Yes
+Nicaragua,NIC,Colombia,COL,0.065951,7,Adjacent region,Yes,1744.0,Yes
+Nicaragua,NIC,United States,USA,0.06341,8,Adjacent region,Yes,3023.0,Yes
+Nicaragua,NIC,Venezuela,VEN,0.061565,9,Adjacent region,Yes,2149.0,Yes
+Nicaragua,NIC,Ecuador,ECU,0.060736,10,Adjacent region,Yes,1862.0,Yes
+Nicaragua,NIC,Dominican Republic,DOM,0.060695,11,Adjacent region,Yes,1670.0,Yes
+Nicaragua,NIC,Jamaica,JAM,0.060316,12,Adjacent region,Yes,993.0,Yes
+Netherlands,NLD,Germany,DEU,0.114203,1,Regional,Yes,279.0,Yes
+Netherlands,NLD,France,FRA,0.107252,2,Regional,Yes,772.0,Yes
+Netherlands,NLD,Belgium,BEL,0.106697,3,Regional,Yes,221.0,Yes
+Netherlands,NLD,Switzerland,CHE,0.100157,4,Regional,Yes,632.0,Yes
+Netherlands,NLD,Austria,AUT,0.100144,5,Regional,Yes,790.0,Yes
+Netherlands,NLD,United Kingdom,GBR,0.074329,6,Adjacent region,Yes,542.0,Yes
+Netherlands,NLD,Italy,ITA,0.06855,7,Adjacent region,Yes,1197.0,Yes
+Netherlands,NLD,Poland,POL,0.068078,8,Adjacent region,Yes,970.0,Yes
+Netherlands,NLD,Denmark,DNK,0.067465,9,Adjacent region,Yes,477.0,Yes
+Netherlands,NLD,Czechia,CZE,0.066697,10,Adjacent region,Yes,745.0,Yes
+Netherlands,NLD,Spain,ESP,0.063435,11,Adjacent region,Yes,1576.0,Yes
+Netherlands,NLD,Ireland,IRL,0.062993,12,Adjacent region,Yes,926.0,Yes
+Norway,NOR,Sweden,SWE,0.100128,1,Regional,Yes,261.0,Yes
+Norway,NOR,United Kingdom,GBR,0.098398,2,Regional,Yes,1133.0,Yes
+Norway,NOR,Denmark,DNK,0.094509,3,Regional,Yes,667.0,Yes
+Norway,NOR,Finland,FIN,0.091146,4,Regional,Yes,835.0,Yes
+Norway,NOR,Latvia,LVA,0.088617,5,Regional,Yes,1009.0,Yes
+Norway,NOR,Lithuania,LTU,0.087631,6,Regional,Yes,1039.0,Yes
+Norway,NOR,Ireland,IRL,0.086748,7,Regional,Yes,1460.0,Yes
+Norway,NOR,Estonia,EST,0.085585,8,Regional,Yes,934.0,Yes
+Norway,NOR,Iceland,ISL,0.077663,9,Regional,Yes,1416.0,Yes
+Norway,NOR,Germany,DEU,0.065654,10,Adjacent region,Yes,1225.0,Yes
+Norway,NOR,Netherlands,NLD,0.062002,11,Adjacent region,Yes,1086.0,Yes
+Norway,NOR,Poland,POL,0.061919,12,Adjacent region,Yes,1263.0,Yes
+Nepal,NPL,India,IND,0.129047,1,Regional,Yes,1138.0,Yes
+Nepal,NPL,Bangladesh,BGD,0.123796,2,Regional,Yes,746.0,Yes
+Nepal,NPL,Pakistan,PAK,0.120867,3,Regional,Yes,1379.0,Yes
+Nepal,NPL,Sri Lanka,LKA,0.104295,4,Regional,Yes,2356.0,Yes
+Nepal,NPL,China,CHN,0.081425,5,Adjacent region,Yes,2132.0,Yes
+Nepal,NPL,Thailand,THA,0.068426,6,Adjacent region,Yes,2193.0,Yes
+Nepal,NPL,Vietnam,VNM,0.066717,7,Adjacent region,Yes,2778.0,Yes
+Nepal,NPL,Indonesia,IDN,0.063482,8,Adjacent region,Yes,5324.0,Yes
+Nepal,NPL,Kazakhstan,KAZ,0.061398,9,Adjacent region,Yes,2617.0,Yes
+Nepal,NPL,Philippines,PHL,0.060439,10,Adjacent region,Yes,4271.0,Yes
+Nepal,NPL,Japan,JPN,0.060263,11,Adjacent region,Yes,5105.0,Yes
+Nepal,NPL,Cambodia,KHM,0.059845,12,Adjacent region,Yes,2742.0,Yes
+New Zealand,NZL,Australia,AUS,0.204308,1,Regional,Yes,4043.0,Yes
+New Zealand,NZL,China,CHN,0.087996,2,Cross-regional,No,10997.0,Yes
+New Zealand,NZL,India,IND,0.085753,3,Cross-regional,No,12021.0,Yes
+New Zealand,NZL,Indonesia,IDN,0.082963,4,Cross-regional,No,6678.0,Yes
+New Zealand,NZL,Philippines,PHL,0.072499,5,Cross-regional,No,8032.0,Yes
+New Zealand,NZL,United States,USA,0.070351,6,Cross-regional,No,12584.0,Yes
+New Zealand,NZL,Vietnam,VNM,0.066991,7,Cross-regional,No,9304.0,Yes
+New Zealand,NZL,Pakistan,PAK,0.066808,8,Cross-regional,No,13242.0,Yes
+New Zealand,NZL,Japan,JPN,0.066047,9,Cross-regional,No,9316.0,Yes
+New Zealand,NZL,Brazil,BRA,0.06596,10,Cross-regional,No,12448.0,Yes
+New Zealand,NZL,Mexico,MEX,0.065424,11,Cross-regional,No,11185.0,Yes
+New Zealand,NZL,Bangladesh,BGD,0.0649,12,Cross-regional,No,11256.0,Yes
+Oman,OMN,United Arab Emirates,ARE,0.094023,1,Regional,Yes,454.0,Yes
+Oman,OMN,Saudi Arabia,SAU,0.090186,2,Regional,Yes,1306.0,Yes
+Oman,OMN,Iraq,IRQ,0.087225,3,Regional,Yes,1851.0,Yes
+Oman,OMN,Qatar,QAT,0.085442,4,Regional,Yes,771.0,Yes
+Oman,OMN,Turkey,TUR,0.084541,5,Regional,Yes,2899.0,Yes
+Oman,OMN,Bahrain,BHR,0.084287,6,Regional,Yes,861.0,Yes
+Oman,OMN,Kuwait,KWT,0.081737,7,Regional,Yes,1473.0,Yes
+Oman,OMN,Azerbaijan,AZE,0.080903,8,Regional,Yes,2347.0,Yes
+Oman,OMN,Israel,ISR,0.079559,9,Regional,Yes,2500.0,Yes
+Oman,OMN,Jordan,JOR,0.07891,10,Regional,Yes,2369.0,Yes
+Oman,OMN,Georgia,GEO,0.07661,11,Regional,Yes,2655.0,Yes
+Oman,OMN,Lebanon,LBN,0.076577,12,Regional,Yes,2521.0,Yes
+Pakistan,PAK,India,IND,0.129595,1,Regional,Yes,1316.0,Yes
+Pakistan,PAK,Bangladesh,BGD,0.114846,2,Regional,Yes,2087.0,Yes
+Pakistan,PAK,Nepal,NPL,0.113075,3,Regional,Yes,1379.0,Yes
+Pakistan,PAK,Sri Lanka,LKA,0.103053,4,Regional,Yes,2804.0,Yes
+Pakistan,PAK,China,CHN,0.078773,5,Adjacent region,Yes,3312.0,Yes
+Pakistan,PAK,United Arab Emirates,ARE,0.067536,6,Adjacent region,Yes,1718.0,Yes
+Pakistan,PAK,Kazakhstan,KAZ,0.067533,7,Adjacent region,Yes,2009.0,Yes
+Pakistan,PAK,Turkey,TUR,0.066327,8,Adjacent region,Yes,3337.0,Yes
+Pakistan,PAK,Iraq,IRQ,0.066296,9,Adjacent region,Yes,2481.0,Yes
+Pakistan,PAK,Saudi Arabia,SAU,0.066038,10,Adjacent region,Yes,2522.0,Yes
+Pakistan,PAK,Oman,OMN,0.064052,11,Adjacent region,Yes,1642.0,Yes
+Pakistan,PAK,Thailand,THA,0.062876,12,Adjacent region,Yes,3488.0,Yes
+Panama,PAN,Costa Rica,CRI,0.106808,1,Regional,Yes,453.0,Yes
+Panama,PAN,Nicaragua,NIC,0.102373,2,Regional,Yes,704.0,Yes
+Panama,PAN,Honduras,HND,0.102069,3,Regional,Yes,972.0,Yes
+Panama,PAN,Guatemala,GTM,0.101944,4,Regional,Yes,1327.0,Yes
+Panama,PAN,El Salvador,SLV,0.099907,5,Regional,Yes,1110.0,Yes
+Panama,PAN,Mexico,MEX,0.099202,6,Regional,Yes,2813.0,Yes
+Panama,PAN,Colombia,COL,0.070713,7,Adjacent region,Yes,1044.0,Yes
+Panama,PAN,Venezuela,VEN,0.066305,8,Adjacent region,Yes,1544.0,Yes
+Panama,PAN,Ecuador,ECU,0.064734,9,Adjacent region,Yes,1254.0,Yes
+Panama,PAN,United States,USA,0.062496,10,Adjacent region,Yes,3647.0,Yes
+Panama,PAN,Peru,PER,0.062164,11,Adjacent region,Yes,2159.0,Yes
+Panama,PAN,Dominican Republic,DOM,0.061285,12,Adjacent region,Yes,1499.0,Yes
+Peru,PER,Brazil,BRA,0.101109,1,Regional,Yes,2299.0,Yes
+Peru,PER,Ecuador,ECU,0.099642,2,Regional,Yes,905.0,Yes
+Peru,PER,Colombia,COL,0.097914,3,Regional,Yes,1619.0,Yes
+Peru,PER,Bolivia,BOL,0.095334,4,Regional,Yes,1421.0,Yes
+Peru,PER,Venezuela,VEN,0.094246,5,Regional,Yes,2287.0,Yes
+Peru,PER,Chile,CHL,0.092337,6,Regional,Yes,2284.0,Yes
+Peru,PER,Argentina,ARG,0.090622,7,Regional,Yes,2936.0,Yes
+Peru,PER,Paraguay,PRY,0.087702,8,Regional,Yes,2398.0,Yes
+Peru,PER,Uruguay,URY,0.080367,9,Regional,Yes,3276.0,Yes
+Peru,PER,United States,USA,0.055266,10,Adjacent region,Yes,5767.0,Yes
+Peru,PER,Mexico,MEX,0.05369,11,Adjacent region,Yes,4634.0,Yes
+Peru,PER,Panama,PAN,0.051771,12,Adjacent region,Yes,2159.0,Yes
+Philippines,PHL,Indonesia,IDN,0.108106,1,Regional,Yes,2014.0,Yes
+Philippines,PHL,Vietnam,VNM,0.107697,2,Regional,Yes,1564.0,Yes
+Philippines,PHL,Malaysia,MYS,0.102821,3,Regional,Yes,1567.0,Yes
+Philippines,PHL,Thailand,THA,0.100881,4,Regional,Yes,2383.0,Yes
+Philippines,PHL,Cambodia,KHM,0.099601,5,Regional,Yes,1842.0,Yes
+Philippines,PHL,Singapore,SGP,0.092175,6,Regional,Yes,2385.0,Yes
+Philippines,PHL,China,CHN,0.072013,7,Adjacent region,Yes,2984.0,Yes
+Philippines,PHL,Taiwan,TWN,0.068595,8,Adjacent region,Yes,1172.0,Yes
+Philippines,PHL,India,IND,0.064046,9,Adjacent region,Yes,4846.0,Yes
+Philippines,PHL,Bangladesh,BGD,0.062386,10,Adjacent region,Yes,3578.0,Yes
+Philippines,PHL,Japan,JPN,0.061929,11,Adjacent region,Yes,3017.0,Yes
+Philippines,PHL,South Korea,KOR,0.05975,12,Adjacent region,Yes,2724.0,Yes
+Poland,POL,Ukraine,UKR,0.093202,1,Regional,Yes,911.0,Yes
+Poland,POL,Belarus,BLR,0.0926,2,Regional,Yes,553.0,Yes
+Poland,POL,Czechia,CZE,0.092438,3,Regional,Yes,403.0,Yes
+Poland,POL,Hungary,HUN,0.091414,4,Regional,Yes,556.0,Yes
+Poland,POL,Slovakia,SVK,0.091219,5,Regional,Yes,372.0,Yes
+Poland,POL,Romania,ROU,0.091199,6,Regional,Yes,760.0,Yes
+Poland,POL,Serbia,SRB,0.088982,7,Regional,Yes,914.0,Yes
+Poland,POL,Bulgaria,BGR,0.087686,8,Regional,Yes,1068.0,Yes
+Poland,POL,Moldova,MDA,0.085134,9,Regional,Yes,854.0,Yes
+Poland,POL,Germany,DEU,0.065691,10,Adjacent region,Yes,769.0,Yes
+Poland,POL,Italy,ITA,0.060878,11,Adjacent region,Yes,1152.0,Yes
+Poland,POL,United Kingdom,GBR,0.059557,12,Adjacent region,Yes,1483.0,Yes
+Portugal,PRT,Spain,ESP,0.116357,1,Regional,Yes,346.0,Yes
+Portugal,PRT,Italy,ITA,0.10376,2,Regional,Yes,1778.0,Yes
+Portugal,PRT,Greece,GRC,0.093263,3,Regional,Yes,2572.0,Yes
+Portugal,PRT,Croatia,HRV,0.090782,4,Regional,Yes,2023.0,Yes
+Portugal,PRT,Bosnia and Herzegovina,BIH,0.090237,5,Regional,Yes,2204.0,Yes
+Portugal,PRT,Slovenia,SVN,0.089756,6,Regional,Yes,1993.0,Yes
+Portugal,PRT,North Macedonia,MKD,0.084791,7,Regional,Yes,2531.0,Yes
+Portugal,PRT,France,FRA,0.071857,8,Adjacent region,Yes,1089.0,Yes
+Portugal,PRT,Germany,DEU,0.067983,9,Adjacent region,Yes,1837.0,Yes
+Portugal,PRT,United Kingdom,GBR,0.067265,10,Adjacent region,Yes,1674.0,Yes
+Portugal,PRT,Netherlands,NLD,0.062258,11,Adjacent region,Yes,1787.0,Yes
+Portugal,PRT,Belgium,BEL,0.061691,12,Adjacent region,Yes,1568.0,Yes
+Paraguay,PRY,Brazil,BRA,0.104901,1,Regional,Yes,1480.0,Yes
+Paraguay,PRY,Argentina,ARG,0.101904,2,Regional,Yes,1356.0,Yes
+Paraguay,PRY,Bolivia,BOL,0.098589,3,Regional,Yes,990.0,Yes
+Paraguay,PRY,Chile,CHL,0.096661,4,Regional,Yes,1508.0,Yes
+Paraguay,PRY,Peru,PER,0.093873,5,Regional,Yes,2398.0,Yes
+Paraguay,PRY,Uruguay,URY,0.093817,6,Regional,Yes,1129.0,Yes
+Paraguay,PRY,Colombia,COL,0.089159,7,Regional,Yes,3365.0,Yes
+Paraguay,PRY,Venezuela,VEN,0.087383,8,Regional,Yes,3555.0,Yes
+Paraguay,PRY,Ecuador,ECU,0.087125,9,Regional,Yes,3142.0,Yes
+Paraguay,PRY,United States,USA,0.052252,10,Adjacent region,Yes,7911.0,Yes
+Paraguay,PRY,Mexico,MEX,0.048971,11,Adjacent region,Yes,6985.0,Yes
+Paraguay,PRY,Guatemala,GTM,0.045365,12,Adjacent region,Yes,5535.0,Yes
+Qatar,QAT,Saudi Arabia,SAU,0.091322,1,Regional,Yes,631.0,Yes
+Qatar,QAT,United Arab Emirates,ARE,0.090799,2,Regional,Yes,324.0,Yes
+Qatar,QAT,Iraq,IRQ,0.088534,3,Regional,Yes,1090.0,Yes
+Qatar,QAT,Bahrain,BHR,0.087941,4,Regional,Yes,89.0,Yes
+Qatar,QAT,Oman,OMN,0.085002,5,Regional,Yes,771.0,Yes
+Qatar,QAT,Kuwait,KWT,0.083695,6,Regional,Yes,701.0,Yes
+Qatar,QAT,Turkey,TUR,0.083264,7,Regional,Yes,2136.0,Yes
+Qatar,QAT,Israel,ISR,0.078719,8,Regional,Yes,1742.0,Yes
+Qatar,QAT,Azerbaijan,AZE,0.078715,9,Regional,Yes,1704.0,Yes
+Qatar,QAT,Jordan,JOR,0.078563,10,Regional,Yes,1612.0,Yes
+Qatar,QAT,Armenia,ARM,0.077403,11,Regional,Yes,1714.0,Yes
+Qatar,QAT,Lebanon,LBN,0.076043,12,Regional,Yes,1751.0,Yes
+Romania,ROU,Ukraine,UKR,0.095179,1,Regional,Yes,622.0,Yes
+Romania,ROU,Poland,POL,0.093196,2,Regional,Yes,760.0,Yes
+Romania,ROU,Hungary,HUN,0.093076,3,Regional,Yes,398.0,Yes
+Romania,ROU,Bulgaria,BGR,0.091973,4,Regional,Yes,334.0,Yes
+Romania,ROU,Moldova,MDA,0.091037,5,Regional,Yes,326.0,Yes
+Romania,ROU,Slovakia,SVK,0.090358,6,Regional,Yes,509.0,Yes
+Romania,ROU,Czechia,CZE,0.08945,7,Regional,Yes,821.0,Yes
+Romania,ROU,Serbia,SRB,0.089373,8,Regional,Yes,704.0,Yes
+Romania,ROU,Belarus,BLR,0.087668,9,Regional,Yes,808.0,Yes
+Romania,ROU,Italy,ITA,0.060799,10,Adjacent region,Yes,1027.0,Yes
+Romania,ROU,Germany,DEU,0.059852,11,Adjacent region,Yes,1300.0,Yes
+Romania,ROU,Greece,GRC,0.058039,12,Adjacent region,Yes,816.0,Yes
+Saudi Arabia,SAU,Iraq,IRQ,0.090663,1,Regional,Yes,895.0,Yes
+Saudi Arabia,SAU,Turkey,TUR,0.086451,2,Regional,Yes,1817.0,Yes
+Saudi Arabia,SAU,Kuwait,KWT,0.086258,3,Regional,Yes,506.0,Yes
+Saudi Arabia,SAU,United Arab Emirates,ARE,0.085544,4,Regional,Yes,917.0,Yes
+Saudi Arabia,SAU,Bahrain,BHR,0.083802,5,Regional,Yes,568.0,Yes
+Saudi Arabia,SAU,Israel,ISR,0.083448,6,Regional,Yes,1236.0,Yes
+Saudi Arabia,SAU,Qatar,QAT,0.083407,7,Regional,Yes,631.0,Yes
+Saudi Arabia,SAU,Jordan,JOR,0.082414,8,Regional,Yes,1106.0,Yes
+Saudi Arabia,SAU,Azerbaijan,AZE,0.080607,9,Regional,Yes,1739.0,Yes
+Saudi Arabia,SAU,Lebanon,LBN,0.080341,10,Regional,Yes,1323.0,Yes
+Saudi Arabia,SAU,Oman,OMN,0.080337,11,Regional,Yes,1306.0,Yes
+Saudi Arabia,SAU,Georgia,GEO,0.076728,12,Regional,Yes,1895.0,Yes
+Senegal,SEN,Nigeria,NGA,0.139671,1,Regional,Yes,2433.0,Yes
+Senegal,SEN,Ghana,GHA,0.138935,2,Regional,Yes,1469.0,Yes
+Senegal,SEN,Morocco,MAR,0.081743,3,Adjacent region,Yes,2201.0,Yes
+Senegal,SEN,Algeria,DZA,0.081608,4,Adjacent region,Yes,2348.0,Yes
+Senegal,SEN,Cameroon,CMR,0.076857,5,Adjacent region,Yes,2980.0,Yes
+Senegal,SEN,Egypt,EGY,0.075502,6,Adjacent region,Yes,4778.0,Yes
+Senegal,SEN,Tunisia,TUN,0.069266,7,Adjacent region,Yes,3210.0,Yes
+Senegal,SEN,Ethiopia,ETH,0.069122,8,Adjacent region,Yes,5704.0,Yes
+Senegal,SEN,Kenya,KEN,0.068258,9,Adjacent region,Yes,5896.0,Yes
+Senegal,SEN,Angola,AGO,0.066918,10,Adjacent region,Yes,4637.0,Yes
+Senegal,SEN,South Africa,ZAF,0.066503,11,Adjacent region,Yes,6286.0,Yes
+Senegal,SEN,Uganda,UGA,0.065617,12,Adjacent region,Yes,5260.0,Yes
+Singapore,SGP,Malaysia,MYS,0.108536,1,Regional,Yes,975.0,Yes
+Singapore,SGP,Indonesia,IDN,0.106978,2,Regional,Yes,1934.0,Yes
+Singapore,SGP,Vietnam,VNM,0.106081,3,Regional,Yes,1704.0,Yes
+Singapore,SGP,Thailand,THA,0.104742,4,Regional,Yes,1572.0,Yes
+Singapore,SGP,Cambodia,KHM,0.103361,5,Regional,Yes,1300.0,Yes
+Singapore,SGP,Philippines,PHL,0.100406,6,Regional,Yes,2385.0,Yes
+Singapore,SGP,India,IND,0.068977,7,Adjacent region,Yes,3575.0,Yes
+Singapore,SGP,China,CHN,0.068141,8,Adjacent region,Yes,3742.0,Yes
+Singapore,SGP,Bangladesh,BGD,0.063436,9,Adjacent region,Yes,2922.0,Yes
+Singapore,SGP,Pakistan,PAK,0.057778,10,Adjacent region,Yes,4781.0,Yes
+Singapore,SGP,Sri Lanka,LKA,0.056404,11,Adjacent region,Yes,2604.0,Yes
+Singapore,SGP,Taiwan,TWN,0.05516,12,Adjacent region,Yes,3081.0,Yes
+El Salvador,SLV,Guatemala,GTM,0.113708,1,Regional,Yes,234.0,Yes
+El Salvador,SLV,Honduras,HND,0.108828,2,Regional,Yes,291.0,Yes
+El Salvador,SLV,Mexico,MEX,0.107141,3,Regional,Yes,1714.0,Yes
+El Salvador,SLV,Nicaragua,NIC,0.106624,4,Regional,Yes,434.0,Yes
+El Salvador,SLV,Costa Rica,CRI,0.102668,5,Regional,Yes,684.0,Yes
+El Salvador,SLV,Panama,PAN,0.096893,6,Regional,Yes,1110.0,Yes
+El Salvador,SLV,United States,USA,0.066017,7,Adjacent region,Yes,2803.0,Yes
+El Salvador,SLV,Colombia,COL,0.061799,8,Adjacent region,Yes,2154.0,Yes
+El Salvador,SLV,Venezuela,VEN,0.060116,9,Adjacent region,Yes,2583.0,Yes
+El Salvador,SLV,Brazil,BRA,0.059391,10,Adjacent region,Yes,4585.0,Yes
+El Salvador,SLV,Jamaica,JAM,0.058833,11,Adjacent region,Yes,1315.0,Yes
+El Salvador,SLV,Ecuador,ECU,0.057982,12,Adjacent region,Yes,2164.0,Yes
+Serbia,SRB,Hungary,HUN,0.093295,1,Regional,Yes,423.0,Yes
+Serbia,SRB,Poland,POL,0.092786,2,Regional,Yes,914.0,Yes
+Serbia,SRB,Romania,ROU,0.091535,3,Regional,Yes,704.0,Yes
+Serbia,SRB,Czechia,CZE,0.091077,4,Regional,Yes,629.0,Yes
+Serbia,SRB,Ukraine,UKR,0.090091,5,Regional,Yes,1305.0,Yes
+Serbia,SRB,Slovakia,SVK,0.089649,6,Regional,Yes,557.0,Yes
+Serbia,SRB,Bulgaria,BGR,0.088644,7,Regional,Yes,702.0,Yes
+Serbia,SRB,Moldova,MDA,0.084384,8,Regional,Yes,1028.0,Yes
+Serbia,SRB,Belarus,BLR,0.084283,9,Regional,Yes,1300.0,Yes
+Serbia,SRB,Italy,ITA,0.069102,10,Adjacent region,Yes,324.0,Yes
+Serbia,SRB,Germany,DEU,0.062731,11,Adjacent region,Yes,945.0,Yes
+Serbia,SRB,Bosnia and Herzegovina,BIH,0.062423,12,Adjacent region,Yes,126.0,Yes
+Slovakia,SVK,Poland,POL,0.09609,1,Regional,Yes,372.0,Yes
+Slovakia,SVK,Hungary,HUN,0.093754,2,Regional,Yes,189.0,Yes
+Slovakia,SVK,Romania,ROU,0.093552,3,Regional,Yes,509.0,Yes
+Slovakia,SVK,Ukraine,UKR,0.092069,4,Regional,Yes,915.0,Yes
+Slovakia,SVK,Czechia,CZE,0.092047,5,Regional,Yes,315.0,Yes
+Slovakia,SVK,Serbia,SRB,0.090024,6,Regional,Yes,557.0,Yes
+Slovakia,SVK,Belarus,BLR,0.088848,7,Regional,Yes,766.0,Yes
+Slovakia,SVK,Bulgaria,BGR,0.08609,8,Regional,Yes,760.0,Yes
+Slovakia,SVK,Moldova,MDA,0.08508,9,Regional,Yes,732.0,Yes
+Slovakia,SVK,Germany,DEU,0.062022,10,Adjacent region,Yes,796.0,Yes
+Slovakia,SVK,Italy,ITA,0.061337,11,Adjacent region,Yes,829.0,Yes
+Slovakia,SVK,France,FRA,0.059087,12,Adjacent region,Yes,1348.0,Yes
+Slovenia,SVN,Italy,ITA,0.104561,1,Regional,Yes,398.0,Yes
+Slovenia,SVN,Croatia,HRV,0.10081,2,Regional,Yes,118.0,Yes
+Slovenia,SVN,Bosnia and Herzegovina,BIH,0.096524,3,Regional,Yes,343.0,Yes
+Slovenia,SVN,Spain,ESP,0.09363,4,Regional,Yes,1668.0,Yes
+Slovenia,SVN,Greece,GRC,0.09271,5,Regional,Yes,985.0,Yes
+Slovenia,SVN,North Macedonia,MKD,0.088947,6,Regional,Yes,746.0,Yes
+Slovenia,SVN,Portugal,PRT,0.085461,7,Regional,Yes,1993.0,Yes
+Slovenia,SVN,Germany,DEU,0.069839,8,Adjacent region,Yes,691.0,Yes
+Slovenia,SVN,Austria,AUT,0.068805,9,Adjacent region,Yes,176.0,Yes
+Slovenia,SVN,Czechia,CZE,0.066615,10,Adjacent region,Yes,407.0,Yes
+Slovenia,SVN,France,FRA,0.066567,11,Adjacent region,Yes,988.0,Yes
+Slovenia,SVN,Poland,POL,0.065531,12,Adjacent region,Yes,755.0,Yes
+Sweden,SWE,Norway,NOR,0.097064,1,Regional,Yes,261.0,Yes
+Sweden,SWE,United Kingdom,GBR,0.09703,2,Regional,Yes,1332.0,Yes
+Sweden,SWE,Finland,FIN,0.094815,3,Regional,Yes,597.0,Yes
+Sweden,SWE,Denmark,DNK,0.093558,4,Regional,Yes,726.0,Yes
+Sweden,SWE,Lithuania,LTU,0.089524,5,Regional,Yes,841.0,Yes
+Sweden,SWE,Estonia,EST,0.089297,6,Regional,Yes,687.0,Yes
+Sweden,SWE,Latvia,LVA,0.088365,7,Regional,Yes,791.0,Yes
+Sweden,SWE,Ireland,IRL,0.085913,8,Regional,Yes,1685.0,Yes
+Sweden,SWE,Iceland,ISL,0.077134,9,Regional,Yes,1651.0,Yes
+Sweden,SWE,Germany,DEU,0.064259,10,Adjacent region,Yes,1276.0,Yes
+Sweden,SWE,Poland,POL,0.062623,11,Adjacent region,Yes,1152.0,Yes
+Sweden,SWE,Netherlands,NLD,0.060418,12,Adjacent region,Yes,1191.0,Yes
+Thailand,THA,Vietnam,VNM,0.110892,1,Regional,Yes,849.0,Yes
+Thailand,THA,Cambodia,KHM,0.1055,2,Regional,Yes,583.0,Yes
+Thailand,THA,Philippines,PHL,0.100505,3,Regional,Yes,2383.0,Yes
+Thailand,THA,Indonesia,IDN,0.099192,4,Regional,Yes,3131.0,Yes
+Thailand,THA,Malaysia,MYS,0.096872,5,Regional,Yes,1952.0,Yes
+Thailand,THA,Singapore,SGP,0.093167,6,Regional,Yes,1572.0,Yes
+Thailand,THA,China,CHN,0.073803,7,Adjacent region,Yes,2279.0,Yes
+Thailand,THA,India,IND,0.072012,8,Adjacent region,Yes,2499.0,Yes
+Thailand,THA,Bangladesh,BGD,0.070177,9,Adjacent region,Yes,1448.0,Yes
+Thailand,THA,Nepal,NPL,0.059879,10,Adjacent region,Yes,2193.0,Yes
+Thailand,THA,Pakistan,PAK,0.059358,11,Adjacent region,Yes,3488.0,Yes
+Thailand,THA,Sri Lanka,LKA,0.058643,12,Adjacent region,Yes,2255.0,Yes
+Tunisia,TUN,Algeria,DZA,0.135664,1,Regional,Yes,878.0,Yes
+Tunisia,TUN,Morocco,MAR,0.129983,2,Regional,Yes,1323.0,Yes
+Tunisia,TUN,Egypt,EGY,0.125167,3,Regional,Yes,2152.0,Yes
+Tunisia,TUN,Nigeria,NGA,0.079721,4,Adjacent region,Yes,2671.0,Yes
+Tunisia,TUN,Ghana,GHA,0.070263,5,Adjacent region,Yes,3103.0,Yes
+Tunisia,TUN,Ethiopia,ETH,0.068576,6,Adjacent region,Yes,4143.0,Yes
+Tunisia,TUN,Italy,ITA,0.066584,7,Cross-regional,No,1037.0,Yes
+Tunisia,TUN,Cameroon,CMR,0.066571,8,Adjacent region,Yes,3129.0,Yes
+Tunisia,TUN,Uganda,UGA,0.065229,9,Adjacent region,Yes,4381.0,Yes
+Tunisia,TUN,Kenya,KEN,0.065056,10,Adjacent region,Yes,4750.0,Yes
+Tunisia,TUN,Senegal,SEN,0.064733,11,Adjacent region,Yes,3210.0,Yes
+Tunisia,TUN,France,FRA,0.062453,12,Cross-regional,No,1460.0,Yes
+Turkey,TUR,Iraq,IRQ,0.091162,1,Regional,Yes,1048.0,Yes
+Turkey,TUR,Lebanon,LBN,0.088546,2,Regional,Yes,579.0,Yes
+Turkey,TUR,Jordan,JOR,0.086756,3,Regional,Yes,894.0,Yes
+Turkey,TUR,Georgia,GEO,0.086349,4,Regional,Yes,792.0,Yes
+Turkey,TUR,Israel,ISR,0.086323,5,Regional,Yes,834.0,Yes
+Turkey,TUR,Armenia,ARM,0.084926,6,Regional,Yes,865.0,Yes
+Turkey,TUR,Azerbaijan,AZE,0.084863,7,Regional,Yes,1081.0,Yes
+Turkey,TUR,Saudi Arabia,SAU,0.084845,8,Regional,Yes,1817.0,Yes
+Turkey,TUR,Kuwait,KWT,0.079069,9,Regional,Yes,1444.0,Yes
+Turkey,TUR,United Arab Emirates,ARE,0.07858,10,Regional,Yes,2445.0,Yes
+Turkey,TUR,Bahrain,BHR,0.074695,11,Regional,Yes,2047.0,Yes
+Turkey,TUR,Qatar,QAT,0.073886,12,Regional,Yes,2136.0,Yes
+Taiwan,TWN,China,CHN,0.123131,1,Regional,Yes,2006.0,Yes
+Taiwan,TWN,South Korea,KOR,0.113997,2,Regional,Yes,1625.0,Yes
+Taiwan,TWN,Japan,JPN,0.112064,3,Regional,Yes,2145.0,Yes
+Taiwan,TWN,Mongolia,MNG,0.092234,4,Regional,Yes,2885.0,Yes
+Taiwan,TWN,Philippines,PHL,0.079563,5,Adjacent region,Yes,1172.0,Yes
+Taiwan,TWN,Vietnam,VNM,0.073518,6,Adjacent region,Yes,1599.0,Yes
+Taiwan,TWN,India,IND,0.072381,7,Adjacent region,Yes,4544.0,Yes
+Taiwan,TWN,Indonesia,IDN,0.068368,8,Adjacent region,Yes,3171.0,Yes
+Taiwan,TWN,Bangladesh,BGD,0.0672,9,Adjacent region,Yes,3149.0,Yes
+Taiwan,TWN,Thailand,THA,0.066758,10,Adjacent region,Yes,2395.0,Yes
+Taiwan,TWN,Malaysia,MYS,0.065931,11,Adjacent region,Yes,2508.0,Yes
+Taiwan,TWN,Cambodia,KHM,0.064855,12,Adjacent region,Yes,2051.0,Yes
+Tanzania,TZA,Uganda,UGA,0.112283,1,Regional,Yes,847.0,Yes
+Tanzania,TZA,Kenya,KEN,0.112209,2,Regional,Yes,847.0,Yes
+Tanzania,TZA,Ethiopia,ETH,0.107411,3,Regional,Yes,1592.0,Yes
+Tanzania,TZA,Mozambique,MOZ,0.105992,4,Regional,Yes,1362.0,Yes
+Tanzania,TZA,Zambia,ZMB,0.105819,5,Regional,Yes,1140.0,Yes
+Tanzania,TZA,Zimbabwe,ZWE,0.100581,6,Regional,Yes,1648.0,Yes
+Tanzania,TZA,Nigeria,NGA,0.062977,7,Adjacent region,Yes,3480.0,Yes
+Tanzania,TZA,South Africa,ZAF,0.062446,8,Adjacent region,Yes,2807.0,Yes
+Tanzania,TZA,Angola,AGO,0.061642,9,Adjacent region,Yes,1949.0,Yes
+Tanzania,TZA,Egypt,EGY,0.059421,10,Adjacent region,Yes,3709.0,Yes
+Tanzania,TZA,Cameroon,CMR,0.057131,11,Adjacent region,Yes,2880.0,Yes
+Tanzania,TZA,Ghana,GHA,0.052088,12,Adjacent region,Yes,4389.0,Yes
+Uganda,UGA,Kenya,KEN,0.11462,1,Regional,Yes,667.0,Yes
+Uganda,UGA,Tanzania,TZA,0.113283,2,Regional,Yes,847.0,Yes
+Uganda,UGA,Ethiopia,ETH,0.113148,3,Regional,Yes,1024.0,Yes
+Uganda,UGA,Zambia,ZMB,0.099293,4,Regional,Yes,1793.0,Yes
+Uganda,UGA,Mozambique,MOZ,0.098292,5,Regional,Yes,2166.0,Yes
+Uganda,UGA,Zimbabwe,ZWE,0.09629,6,Regional,Yes,2345.0,Yes
+Uganda,UGA,Nigeria,NGA,0.067024,7,Adjacent region,Yes,2836.0,Yes
+Uganda,UGA,Egypt,EGY,0.063361,8,Adjacent region,Yes,2899.0,Yes
+Uganda,UGA,Angola,AGO,0.062543,9,Adjacent region,Yes,2115.0,Yes
+Uganda,UGA,Cameroon,CMR,0.060523,10,Adjacent region,Yes,2288.0,Yes
+Uganda,UGA,South Africa,ZAF,0.05789,11,Adjacent region,Yes,3443.0,Yes
+Uganda,UGA,Ghana,GHA,0.053733,12,Adjacent region,Yes,3846.0,Yes
+Ukraine,UKR,Romania,ROU,0.097028,1,Regional,Yes,622.0,Yes
+Ukraine,UKR,Poland,POL,0.09641,2,Regional,Yes,911.0,Yes
+Ukraine,UKR,Belarus,BLR,0.093032,3,Regional,Yes,525.0,Yes
+Ukraine,UKR,Moldova,MDA,0.092696,4,Regional,Yes,315.0,Yes
+Ukraine,UKR,Hungary,HUN,0.090666,5,Regional,Yes,919.0,Yes
+Ukraine,UKR,Bulgaria,BGR,0.090154,6,Regional,Yes,858.0,Yes
+Ukraine,UKR,Czechia,CZE,0.089659,7,Regional,Yes,1195.0,Yes
+Ukraine,UKR,Slovakia,SVK,0.089405,8,Regional,Yes,915.0,Yes
+Ukraine,UKR,Serbia,SRB,0.086144,9,Regional,Yes,1305.0,Yes
+Ukraine,UKR,Germany,DEU,0.060183,10,Adjacent region,Yes,1652.0,Yes
+Ukraine,UKR,Italy,ITA,0.058484,11,Adjacent region,Yes,1628.0,Yes
+Ukraine,UKR,United Kingdom,GBR,0.056139,12,Adjacent region,Yes,2393.0,Yes
+Uruguay,URY,Argentina,ARG,0.108848,1,Regional,Yes,750.0,Yes
+Uruguay,URY,Brazil,BRA,0.101193,2,Regional,Yes,2560.0,Yes
+Uruguay,URY,Paraguay,PRY,0.099578,3,Regional,Yes,1129.0,Yes
+Uruguay,URY,Chile,CHL,0.098887,4,Regional,Yes,1459.0,Yes
+Uruguay,URY,Bolivia,BOL,0.094518,5,Regional,Yes,1995.0,Yes
+Uruguay,URY,Peru,PER,0.092682,6,Regional,Yes,3276.0,Yes
+Uruguay,URY,Colombia,COL,0.08888,7,Regional,Yes,4446.0,Yes
+Uruguay,URY,Venezuela,VEN,0.085727,8,Regional,Yes,4680.0,Yes
+Uruguay,URY,Ecuador,ECU,0.085488,9,Regional,Yes,4112.0,Yes
+Uruguay,URY,United States,USA,0.051231,10,Adjacent region,Yes,8961.0,Yes
+Uruguay,URY,Mexico,MEX,0.048001,11,Adjacent region,Yes,7909.0,Yes
+Uruguay,URY,Guatemala,GTM,0.044967,12,Adjacent region,Yes,6505.0,Yes
+United States,USA,Canada,CAN,0.141251,1,Regional,Yes,2450.0,Yes
+United States,USA,Mexico,MEX,0.101765,2,Adjacent region,Yes,1735.0,Yes
+United States,USA,Guatemala,GTM,0.081172,3,Adjacent region,Yes,2588.0,Yes
+United States,USA,Honduras,HND,0.07881,4,Adjacent region,Yes,2758.0,Yes
+United States,USA,Colombia,COL,0.077784,5,Adjacent region,Yes,4552.0,Yes
+United States,USA,Dominican Republic,DOM,0.077006,6,Adjacent region,Yes,3308.0,Yes
+United States,USA,El Salvador,SLV,0.076847,7,Adjacent region,Yes,2803.0,Yes
+United States,USA,Venezuela,VEN,0.075682,8,Adjacent region,Yes,4560.0,Yes
+United States,USA,Brazil,BRA,0.075601,9,Adjacent region,Yes,6892.0,Yes
+United States,USA,Nicaragua,NIC,0.074541,10,Adjacent region,Yes,3023.0,Yes
+United States,USA,Costa Rica,CRI,0.070634,11,Adjacent region,Yes,3373.0,Yes
+United States,USA,Panama,PAN,0.068907,12,Adjacent region,Yes,3647.0,Yes
+Venezuela,VEN,Colombia,COL,0.107124,1,Regional,Yes,799.0,Yes
+Venezuela,VEN,Brazil,BRA,0.102645,2,Regional,Yes,2343.0,Yes
+Venezuela,VEN,Ecuador,ECU,0.096188,3,Regional,Yes,1692.0,Yes
+Venezuela,VEN,Peru,PER,0.095422,4,Regional,Yes,2287.0,Yes
+Venezuela,VEN,Argentina,ARG,0.087463,5,Regional,Yes,4675.0,Yes
+Venezuela,VEN,Bolivia,BOL,0.087201,6,Regional,Yes,2782.0,Yes
+Venezuela,VEN,Chile,CHL,0.084974,7,Regional,Yes,4259.0,Yes
+Venezuela,VEN,Paraguay,PRY,0.083368,8,Regional,Yes,3555.0,Yes
+Venezuela,VEN,Uruguay,URY,0.078075,9,Regional,Yes,4680.0,Yes
+Venezuela,VEN,Dominican Republic,DOM,0.062634,10,Adjacent region,Yes,1323.0,Yes
+Venezuela,VEN,United States,USA,0.058444,11,Adjacent region,Yes,4560.0,Yes
+Venezuela,VEN,Panama,PAN,0.056462,12,Adjacent region,Yes,1544.0,Yes
+Vietnam,VNM,Thailand,THA,0.108982,1,Regional,Yes,849.0,Yes
+Vietnam,VNM,Cambodia,KHM,0.108156,2,Regional,Yes,466.0,Yes
+Vietnam,VNM,Philippines,PHL,0.10415,3,Regional,Yes,1564.0,Yes
+Vietnam,VNM,Indonesia,IDN,0.100577,4,Regional,Yes,2708.0,Yes
+Vietnam,VNM,Malaysia,MYS,0.100259,5,Regional,Yes,1603.0,Yes
+Vietnam,VNM,Singapore,SGP,0.091461,6,Regional,Yes,1704.0,Yes
+Vietnam,VNM,China,CHN,0.074984,7,Adjacent region,Yes,2113.0,Yes
+Vietnam,VNM,India,IND,0.068752,8,Adjacent region,Yes,3282.0,Yes
+Vietnam,VNM,Bangladesh,BGD,0.065215,9,Adjacent region,Yes,2053.0,Yes
+Vietnam,VNM,Taiwan,TWN,0.061362,10,Adjacent region,Yes,1599.0,Yes
+Vietnam,VNM,Japan,JPN,0.058621,11,Adjacent region,Yes,3707.0,Yes
+Vietnam,VNM,Pakistan,PAK,0.057481,12,Adjacent region,Yes,4140.0,Yes
+South Africa,ZAF,Botswana,BWA,0.124973,1,Regional,Yes,778.0,Yes
+South Africa,ZAF,Namibia,NAM,0.121099,2,Regional,Yes,1048.0,Yes
+South Africa,ZAF,Zimbabwe,ZWE,0.083185,3,Adjacent region,Yes,1170.0,Yes
+South Africa,ZAF,Mozambique,MOZ,0.082877,4,Adjacent region,Yes,1637.0,Yes
+South Africa,ZAF,Angola,AGO,0.079838,5,Adjacent region,Yes,1921.0,Yes
+South Africa,ZAF,Zambia,ZMB,0.079119,6,Adjacent region,Yes,1674.0,Yes
+South Africa,ZAF,Tanzania,TZA,0.075051,7,Adjacent region,Yes,2807.0,Yes
+South Africa,ZAF,Nigeria,NGA,0.074051,8,Adjacent region,Yes,4664.0,Yes
+South Africa,ZAF,Ethiopia,ETH,0.07285,9,Adjacent region,Yes,4379.0,Yes
+South Africa,ZAF,Uganda,UGA,0.07074,10,Adjacent region,Yes,3443.0,Yes
+South Africa,ZAF,Kenya,KEN,0.069741,11,Adjacent region,Yes,3653.0,Yes
+South Africa,ZAF,Egypt,EGY,0.066476,12,Adjacent region,Yes,6260.0,Yes
+Zambia,ZMB,Mozambique,MOZ,0.112223,1,Regional,Yes,644.0,Yes
+Zambia,ZMB,Zimbabwe,ZWE,0.110371,2,Regional,Yes,556.0,Yes
+Zambia,ZMB,Tanzania,TZA,0.107694,3,Regional,Yes,1140.0,Yes
+Zambia,ZMB,Uganda,UGA,0.100836,4,Regional,Yes,1793.0,Yes
+Zambia,ZMB,Kenya,KEN,0.100226,5,Regional,Yes,1985.0,Yes
+Zambia,ZMB,Ethiopia,ETH,0.099854,6,Regional,Yes,2705.0,Yes
+Zambia,ZMB,Angola,AGO,0.067623,7,Adjacent region,Yes,1273.0,Yes
+Zambia,ZMB,South Africa,ZAF,0.066221,8,Adjacent region,Yes,1674.0,Yes
+Zambia,ZMB,Botswana,BWA,0.061536,9,Adjacent region,Yes,1003.0,Yes
+Zambia,ZMB,Nigeria,NGA,0.060735,10,Adjacent region,Yes,3688.0,Yes
+Zambia,ZMB,Egypt,EGY,0.056535,11,Adjacent region,Yes,4670.0,Yes
+Zambia,ZMB,Namibia,NAM,0.056146,12,Adjacent region,Yes,1575.0,Yes
+Zimbabwe,ZWE,Mozambique,MOZ,0.111863,1,Regional,Yes,560.0,Yes
+Zimbabwe,ZWE,Zambia,ZMB,0.110812,2,Regional,Yes,556.0,Yes
+Zimbabwe,ZWE,Tanzania,TZA,0.106177,3,Regional,Yes,1648.0,Yes
+Zimbabwe,ZWE,Kenya,KEN,0.100026,4,Regional,Yes,2493.0,Yes
+Zimbabwe,ZWE,Uganda,UGA,0.099358,5,Regional,Yes,2345.0,Yes
+Zimbabwe,ZWE,Ethiopia,ETH,0.097747,6,Regional,Yes,3234.0,Yes
+Zimbabwe,ZWE,South Africa,ZAF,0.071988,7,Adjacent region,Yes,1170.0,Yes
+Zimbabwe,ZWE,Angola,AGO,0.065223,8,Adjacent region,Yes,1483.0,Yes
+Zimbabwe,ZWE,Botswana,BWA,0.063864,9,Adjacent region,Yes,661.0,Yes
+Zimbabwe,ZWE,Nigeria,NGA,0.059413,10,Adjacent region,Yes,4114.0,Yes
+Zimbabwe,ZWE,Namibia,NAM,0.059143,11,Adjacent region,Yes,1367.0,Yes
+Zimbabwe,ZWE,Egypt,EGY,0.054386,12,Adjacent region,Yes,5226.0,Yes
